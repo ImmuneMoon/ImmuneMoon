@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C, Python, JavaScript, SQL, HTML/ CSS
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me:
-Twitter: https://twitter.com/ImmuneMoon
-Linkedin: https://github.com/ImmuneMoon
+Twitter - https://twitter.com/ImmuneMoon
+Linkedin - https://github.com/ImmuneMoon
 
 <!---
 ImmuneMoon/ImmuneMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
