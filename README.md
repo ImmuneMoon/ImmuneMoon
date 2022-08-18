@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source web development & web development tools or game & modding projects
 - 📫 How to reach me:
 Twitter - https://twitter.com/ImmuneMoon
-Linkedin - https://www.linkedin.com/in/p-alex-j/
+Linkedin - https://www.linkedin.com/in/page-alexander-j/
 
 <!---
 ImmuneMoon/ImmuneMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
