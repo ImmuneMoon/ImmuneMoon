@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImmuneMoon
 - 👀 I’m interested in web, mobile, game & machine learning/ A.I. development
 - 🌱 I’m currently learning C, Python, JavaScript, and SQL
-- 💞️ I’m looking to collaborate on open source web development, web development tools and game & modding projects
+- 💞️ I’m looking to collaborate on open source web development, web development tools and game/ modding projects
 - 📫 How to reach me:
 Twitter - https://twitter.com/ImmuneMoon
 Linkedin - https://www.linkedin.com/in/p-alex-j/
