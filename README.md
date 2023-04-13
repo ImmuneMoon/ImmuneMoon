@@ -3,14 +3,14 @@
 - 🌱 I’m currently learning React & APIs
 - 💞️ I’m looking to collaborate on open source web development, web development tools and game/ modding projects
 - 📫 Socials:
-- Linkedin - https://github.com/ImmuneMoon
-- Upwork - https://upwork.com/freelancers/~01d85f4c2bb6753670
-- Twitter - https://twitter.com/ImmuneMoon
-- codepen - https://codepen.io/immunemoon
-- Stack Overflow - https://stackoverflow.com/users/16596160/immunemoon
-- Leetcode - https://leetcode.com/ImmuneMoon/
-- CodeWars - https://www.codewars.com/users/ImmuneMoon
-- HackerRank - https://www.hackerrank.com/ImmuneMoon
+<br> Linkedin - https://github.com/ImmuneMoon
+<br> Upwork - https://upwork.com/freelancers/~01d85f4c2bb6753670
+<br> Twitter - https://twitter.com/ImmuneMoon
+<br> Codepen - https://codepen.io/immunemoon
+<br> Stack Overflow - https://stackoverflow.com/users/16596160/immunemoon
+<br> Leetcode - https://leetcode.com/ImmuneMoon/
+<br> CodeWars - https://www.codewars.com/users/ImmuneMoon
+<br> HackerRank - https://www.hackerrank.com/ImmuneMoon
 
 <!---
 ImmuneMoon/ImmuneMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
