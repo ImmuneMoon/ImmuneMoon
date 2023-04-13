@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImmuneMoon
 - 👀 I’m interested in web, mobile, game & machine learning/ A.I. development
-- 🌱 I’m currently learning React & APIs
+- 🌱 I’m currently learning React, APIs & Django
 - 💞️ I’m looking to collaborate on open source web development, web development tools and game/ modding projects
 - 📫 Socials:
 <br> Linkedin - https://www.linkedin.com/in/p-alex-j/
