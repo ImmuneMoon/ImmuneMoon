@@ -35,10 +35,20 @@
 </a>
 </div>
 
+
 <h2>👀 I’m interested in:</h2>
-<p><img alt="Globe" width="22px" src="https://api.iconify.design/mdi:web.svg?color=%23007dff"/> &nbsp; Web, &nbsp; <img alt="Mobile Devices" width="22px" src="https://api.iconify.design/zondicons:mobile-devices.svg?color=%23ecf5f6"/> &nbsp; Mobile, &nbsp; <img alt="Pac-Man" width="22px" src="https://api.iconify.design/bx:bxs-game.svg?color=%23ffeb01"/> &nbsp; Game & &nbsp; <img alt="Robot" width="22px" src="https://api.iconify.design/eos-icons:machine-learning-outlined.svg?color=%2376ad8a"/> &nbsp; Machine Learning/ A.I. Development.</p>
-- 🌱 I’m currently learning React, APIs & Django
-- 💞️ I’m looking to collaborate on open source web development, web development tools and game/ modding projects
+
+<p align="center"> <img alt="Globe" width="22px" src="https://api.iconify.design/mdi:web.svg?color=%23007dff"/>  Web,  <img alt="Mobile Devices" width="22px" src="https://api.iconify.design/zondicons:mobile-devices.svg?color=%23ecf5f6"/>  Mobile,  <img alt="Pac-Man" width="22px" src="https://api.iconify.design/bx:bxs-game.svg?color=%23ffeb01"/>  Game  &  <img alt="Robot" width="22px" src="https://api.iconify.design/eos-icons:machine-learning-outlined.svg?color=%2376ad8a"/>  Machine Learning/ A.I. Development.</p>
+
+
+<h2>🌱 I’m currently learning</h2>
+
+<p><img alt="React Logo" width="22px" src="https://api.iconify.design/logos:react.svg?color=%2376ad8a"/>  React,  <img alt="API" width="22px" src="https://api.iconify.design/carbon:api-1.svg?color=%23008aab"/>  APIs  &  <img alt="Django Logo" width="22px" src="https://api.iconify.design/vscode-icons:file-type-django.svg?color=%23008aab"/>  Django
+ 
+ 
+<h2>💞️ I’m looking to collaborate on</h2>
+
+<p>open source web development, web development tools and game/ modding projects</p>
 
 <div align="center">
 <p>
