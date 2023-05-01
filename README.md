@@ -89,7 +89,7 @@
 <br>
 
 
-<h2>🌱 I’m currently learning</h2>
+<h2>🌱 I’m currently learning:</h2>
 
 <div align="center">
  <p> 
@@ -106,13 +106,13 @@
 <br>
  
  
-<h2>💞️ I’m looking to collaborate on</h2>
+<h2>💞️ I’m looking to collaborate on:</h2>
 
 <p align="center">open source web development, web development tools and game/ modding projects</p>
 <br>
 
 
-<h2>📊 Stats</h2>
+<h2>📊 Stats:</h2>
 
 <div align="center">
  <p>
