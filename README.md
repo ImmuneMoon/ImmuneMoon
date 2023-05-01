@@ -1,34 +1,34 @@
 <div align="center">
  <a href="https://twitter.com/ImmuneMoon">
-  <img align="center" alt="ImmuneMoon | Twitter" width="22px" src="https://api.iconify.design/logos:twitter.svg?color=%237000a6" />
+  <img align="center" alt="ImmuneMoon | Twitter" width="42px" src="https://api.iconify.design/logos:twitter.svg?color=%237000a6" />
 </a>
  &nbsp;
 <a href="https://www.linkedin.com/in/in/p-alex-j/">
-  <img align="center" alt="ImmuneMoon | Linkedin" width="22px" src="https://api.iconify.design/logos:linkedin-icon.svg?color=%237000a6" />
+  <img align="center" alt="ImmuneMoon | Linkedin" width="42px" src="https://api.iconify.design/logos:linkedin-icon.svg?color=%237000a6" />
 </a>
  &nbsp;
 <a href="https://upwork.com/freelancers/~01d85f4c2bb6753670">
-  <img align="center" alt="ImmuneMoon | Upwork" width="22px" src="https://api.iconify.design/simple-icons:upwork.svg?color=%2316bd00" />
+  <img align="center" alt="ImmuneMoon | Upwork" width="42px" src="https://api.iconify.design/simple-icons:upwork.svg?color=%2316bd00" />
 </a>
  &nbsp;
 <a href="https://codepen.io/immunemoon">
-  <img align="center" alt="ImmuneMoon | Codepen" width="22px" src="https://api.iconify.design/ant-design:codepen-outlined.svg?color=%23f3fff7" />
+  <img align="center" alt="ImmuneMoon | Codepen" width="42px" src="https://api.iconify.design/ant-design:codepen-outlined.svg?color=%23f3fff7" />
 </a>
  &nbsp;
 <a href="https://stackoverflow.com/users/16596160/immunemoon">
-  <img align="center" alt="ImmuneMoon | StackOverflow" width="22px" src="https://api.iconify.design/logos:stackoverflow-icon.svg" />
+  <img align="center" alt="ImmuneMoon | StackOverflow" width="42px" src="https://api.iconify.design/logos:stackoverflow-icon.svg" />
 </a>
  &nbsp;
 <a href="https://leetcode.com/ImmuneMoon/">
-  <img align="center" alt="ImmuneMoon | Leetcode" width="22px" src="https://api.iconify.design/cib:leetcode.svg?color=%23ee9100" />
+  <img align="center" alt="ImmuneMoon | Leetcode" width="42px" src="https://api.iconify.design/cib:leetcode.svg?color=%23ee9100" />
 </a>
  &nbsp;
 <a href="https://www.codewars.com/users/ImmuneMoon">
-  <img align="center" alt="ImmuneMoon | CodeWars" width="22px" src="https://api.iconify.design/simple-icons:codewars.svg?color=%23b11300" />
+  <img align="center" alt="ImmuneMoon | CodeWars" width="42px" src="https://api.iconify.design/simple-icons:codewars.svg?color=%23b11300" />
 </a>
  &nbsp;
 <a href="https://www.hackerrank.com/ImmuneMoon">
-  <img align="center" alt="ImmuneMoon | HackerRank" width="22px" src="https://api.iconify.design/simple-icons:hackerrank.svg?color=%2300bb27" />
+  <img align="center" alt="ImmuneMoon | HackerRank" width="42px" src="https://api.iconify.design/simple-icons:hackerrank.svg?color=%2300bb27" />
 </a>
 </div>
 
