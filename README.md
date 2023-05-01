@@ -116,10 +116,10 @@
 
 <div align="center">
  <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImmuneMoon&show_icons=true&locale=en&layout=compact" alt="ImmuneMoon" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImmuneMoon&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="ImmuneMoon" />
  </p> 
  <br>
  <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImmuneMoon&show_icons=true&locale=en" alt="ImmuneMoon" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImmuneMoon&show_icons=true&locale=en&theme=nightowl" alt="ImmuneMoon" />
  </p>
 </div>
