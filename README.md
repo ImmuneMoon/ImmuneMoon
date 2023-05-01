@@ -12,6 +12,6 @@
 <br> CodeWars - https://www.codewars.com/users/ImmuneMoon
 <br> HackerRank - https://www.hackerrank.com/ImmuneMoon
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImmunMoon&show_icons=true&locale=en&layout=compact" alt="ImmuneMoon" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImmuneMoon&show_icons=true&locale=en&layout=compact" alt="ImmuneMoon" /></p> 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ImmuneMoon&show_icons=true&locale=en" alt="ImmuneMoon" /></p>
  
