@@ -57,7 +57,7 @@
 <br>
 
 
-<h2>🪛 Tools>
+<h2>🪛 Tools:</h2>
 <div align="center">
  <img align="center" alt="Bootstrap" width="32px" src="https://api.iconify.design/logos:bootstrap.svg?color=%23004dff" />
  &nbsp;
