@@ -40,13 +40,43 @@
 <br>
 
 
+<h2>💻 Languages:</h2>
+<div align="center">
+ <img align="center" alt="HTML" width="32px" src="https://api.iconify.design/vscode-icons:file-type-html.svg?color=%23008aab" />
+ &nbsp;
+ <img align="center" alt="CSS" width="32px" src="https://api.iconify.design/vscode-icons:file-type-css.svg?color=%23004dff" />
+ &nbsp;
+ <img align="center" alt="JavaScript" width="32px" src="https://api.iconify.design/logos:javascript.svg?color=%23004dff" />
+ &nbsp;
+ <img align="center" alt="Python" width="32px" src="https://api.iconify.design/vscode-icons:file-type-python.svg?color=%23004dff" />
+ &nbsp;
+ <img align="center" alt="SQLite" width="32px" src="https://api.iconify.design/logos:sqlite.svg?color=%23004dff" />
+ &nbsp;
+ <img align="center" alt="C" width="32px" src="https://api.iconify.design/mdi:language-c.svg?color=%23004dff" />
+</div>
+<br>
+
+
+<h2>🪛 Tools>
+<div align="center">
+ <img align="center" alt="Bootstrap" width="32px" src="https://api.iconify.design/logos:bootstrap.svg?color=%23004dff" />
+ &nbsp;
+ <img align="center" alt="TailwindCSS" width="32px" src="https://api.iconify.design/logos:tailwindcss-icon.svg?color=%23004dff" />
+ &nbsp;
+ <img align="center" alt="Jquery" width="32px" src="https://api.iconify.design/akar-icons:jquery-fill.svg?color=%2300bef5" />
+ &nbsp;
+ <img align="center" alt="Flask" width="32px" src="https://api.iconify.design/bx:bxl-flask.svg?color=%23e9efea" />
+ &nbsp;
+</div>
+
+
 <h2>👀 I’m interested in:</h2>
 <div align="center">
-<p> <img alt="Globe" width="22px" src="https://api.iconify.design/mdi:web.svg?color=%23007dff"/>&nbsp;  Web, </p> 
-<p> <img alt="Mobile Devices" width="22px" src="https://api.iconify.design/zondicons:mobile-devices.svg?color=%23ecf5f6"/>&nbsp;  Mobile, </p> 
-<p> <img alt="Pac-Man" width="22px" src="https://api.iconify.design/bx:bxs-game.svg?color=%23ffeb01"/>&nbsp;  Game </p>  
-<p> & </p>
-<p> <img alt="Robot" width="22px" src="https://api.iconify.design/eos-icons:machine-learning-outlined.svg?color=%2376ad8a"/>&nbsp;  Machine Learning/ A.I. Development.</p>
+ <p> <img alt="Globe" width="22px" src="https://api.iconify.design/mdi:web.svg?color=%23007dff"/>&nbsp;  Web, </p> 
+ <p> <img alt="Mobile Devices" width="22px" src="https://api.iconify.design/zondicons:mobile-devices.svg?color=%23ecf5f6"/>&nbsp;  Mobile, </p> 
+ <p> <img alt="Pac-Man" width="22px" src="https://api.iconify.design/bx:bxs-game.svg?color=%23ffeb01"/>&nbsp;  Game </p>  
+ <p> & </p>
+ <p> <img alt="Robot" width="22px" src="https://api.iconify.design/eos-icons:machine-learning-outlined.svg?color=%2376ad8a"/>&nbsp;  Machine Learning/ A.I. Development.</p>
 </div>
 <br>
 
