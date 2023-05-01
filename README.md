@@ -1,3 +1,6 @@
+
+<h1 align="left">👋 Hi, I’m @ImmuneMoon</h1>
+<h2>Socials:</h2>
 <div align="center">
  <a href="https://twitter.com/ImmuneMoon">
   <img align="center" alt="ImmuneMoon | Twitter" width="32px" src="https://api.iconify.design/logos:twitter.svg?color=%237000a6" />
@@ -32,11 +35,9 @@
 </a>
 </div>
 
-- 👋 Hi, I’m @ImmuneMoon
 - 👀 I’m interested in web, mobile, game & machine learning/ A.I. development
 - 🌱 I’m currently learning React, APIs & Django
 - 💞️ I’m looking to collaborate on open source web development, web development tools and game/ modding projects
-- 📫 Socials:
 
 <div align="center">
 <p>
