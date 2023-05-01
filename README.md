@@ -73,17 +73,17 @@
 <h2>👀 I’m interested in:</h2>
 <div align="center">
  <p> 
-  <img alt="Globe" width="22px" src="https://api.iconify.design/mdi:web.svg?color=%23007dff"/>&nbsp;  Web, 
+  <img align="center" alt="Globe" width="22px" src="https://api.iconify.design/mdi:web.svg?color=%23007dff"/>&nbsp;  Web, 
  </p> 
  <p> 
-  <img alt="Mobile Devices" width="22px" src="https://api.iconify.design/zondicons:mobile-devices.svg?color=%23ecf5f6"/>&nbsp;  Mobile, 
+  <img align="center" alt="Mobile Devices" width="22px" src="https://api.iconify.design/zondicons:mobile-devices.svg?color=%23ecf5f6"/>&nbsp;  Mobile, 
  </p> 
  <p> 
-  <img alt="Pac-Man" width="22px" src="https://api.iconify.design/bx:bxs-game.svg?color=%23ffeb01"/>&nbsp;  Game 
+  <img align="center" alt="Pac-Man" width="22px" src="https://api.iconify.design/bx:bxs-game.svg?color=%23ffeb01"/>&nbsp;  Game 
  </p>  
  <p> & </p>
  <p> 
-  <img alt="Robot" width="22px" src="https://api.iconify.design/eos-icons:machine-learning-outlined.svg?color=%2376ad8a"/>&nbsp;  Machine Learning/ A.I. Development.
+  <img align="center" alt="Robot" width="22px" src="https://api.iconify.design/eos-icons:machine-learning-outlined.svg?color=%2376ad8a"/>&nbsp;  Machine Learning/ A.I. Development.
  </p>
 </div>
 <br>
@@ -91,16 +91,18 @@
 
 <h2>🌱 I’m currently learning</h2>
 
-<p align="center"> 
- <img alt="React Logo" width="22px" src="https://api.iconify.design/logos:react.svg?color=%2376ad8a"/>&nbsp;  React, 
-</p>
-<p> 
- <img alt="API" width="22px" src="https://api.iconify.design/carbon:api-1.svg?color=%23008aab"/>&nbsp;  APIs 
-</p>
-<p>&</p>
-<p> 
- <img alt="Django Logo" width="22px" src="https://api.iconify.design/vscode-icons:file-type-django.svg?color=%23008aab"/>&nbsp;  Django 
-</p>
+<div align="center">
+ <p> 
+  <img align="center" alt="React Logo" width="22px" src="https://api.iconify.design/logos:react.svg?color=%2376ad8a"/>&nbsp;  React, 
+ </p>
+ <p> 
+  <img align="center" alt="API" width="22px" src="https://api.iconify.design/carbon:api-1.svg?color=%23008aab"/>&nbsp;  APIs 
+ </p>
+ <p>&</p>
+ <p> 
+  <img align="center" alt="Django Logo" width="22px" src="https://api.iconify.design/vscode-icons:file-type-django.svg?color=%23008aab"/>&nbsp;  Django 
+ </p>
+<div>
 <br>
  
  
