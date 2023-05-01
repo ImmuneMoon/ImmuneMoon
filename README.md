@@ -34,27 +34,38 @@
   <img align="center" alt="ImmuneMoon | HackerRank" width="32px" src="https://api.iconify.design/simple-icons:hackerrank.svg?color=%2300bb27" />
 </a>
 </div>
+<br>
 
 
 <h2>👀 I’m interested in:</h2>
-
-<p align="center"> <img alt="Globe" width="22px" src="https://api.iconify.design/mdi:web.svg?color=%23007dff"/>  Web,  <img alt="Mobile Devices" width="22px" src="https://api.iconify.design/zondicons:mobile-devices.svg?color=%23ecf5f6"/>  Mobile,  <img alt="Pac-Man" width="22px" src="https://api.iconify.design/bx:bxs-game.svg?color=%23ffeb01"/>  Game  &  <img alt="Robot" width="22px" src="https://api.iconify.design/eos-icons:machine-learning-outlined.svg?color=%2376ad8a"/>  Machine Learning/ A.I. Development.</p>
+<div align="center">
+<p> <img alt="Globe" width="22px" src="https://api.iconify.design/mdi:web.svg?color=%23007dff"/>  Web, </p> 
+<p> <img alt="Mobile Devices" width="22px" src="https://api.iconify.design/zondicons:mobile-devices.svg?color=%23ecf5f6"/>  Mobile, </p> 
+<p> <img alt="Pac-Man" width="22px" src="https://api.iconify.design/bx:bxs-game.svg?color=%23ffeb01"/>  Game </p>  
+<p> & </p>
+<p> <img alt="Robot" width="22px" src="https://api.iconify.design/eos-icons:machine-learning-outlined.svg?color=%2376ad8a"/>  Machine Learning/ A.I. Development.</p>
+</div>
+<br>
 
 
 <h2>🌱 I’m currently learning</h2>
 
-<p><img alt="React Logo" width="22px" src="https://api.iconify.design/logos:react.svg?color=%2376ad8a"/>  React,  <img alt="API" width="22px" src="https://api.iconify.design/carbon:api-1.svg?color=%23008aab"/>  APIs  &  <img alt="Django Logo" width="22px" src="https://api.iconify.design/vscode-icons:file-type-django.svg?color=%23008aab"/>  Django
+<p align="center"> <img alt="React Logo" width="22px" src="https://api.iconify.design/logos:react.svg?color=%2376ad8a"/>  React,  <img alt="API" width="22px" src="https://api.iconify.design/carbon:api-1.svg?color=%23008aab"/>  APIs  &  <img alt="Django Logo" width="22px" src="https://api.iconify.design/vscode-icons:file-type-django.svg?color=%23008aab"/>  Django
+<br>
  
  
 <h2>💞️ I’m looking to collaborate on</h2>
 
 <p>open source web development, web development tools and game/ modding projects</p>
 
+
+<br>
 <div align="center">
 <p>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImmuneMoon&show_icons=true&locale=en&layout=compact" alt="ImmuneMoon" />
 </p> 
-<p>&nbsp;
+<br>
+<p>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImmuneMoon&show_icons=true&locale=en" alt="ImmuneMoon" />
 </p>
 </div>
