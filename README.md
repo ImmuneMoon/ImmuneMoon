@@ -4,6 +4,7 @@
 
 
 <h2>📬 Socials:</h2>
+<br>
 <div align="center">
  <a href="https://twitter.com/ImmuneMoon">
   <img align="center" alt="ImmuneMoon | Twitter" width="32px" src="https://api.iconify.design/logos:twitter.svg?color=%237000a6" />
@@ -41,6 +42,7 @@
 
 
 <h2>💻 Languages:</h2>
+<br>
 <div align="center">
  <img align="center" alt="HTML" width="32px" src="https://api.iconify.design/vscode-icons:file-type-html.svg?color=%23008aab" />
  &nbsp;
@@ -58,6 +60,7 @@
 
 
 <h2>🪛 Tools:</h2>
+<br>
 <div align="center">
  <img align="center" alt="Bootstrap" width="32px" src="https://api.iconify.design/logos:bootstrap.svg?color=%23004dff" />
  &nbsp;
@@ -71,6 +74,7 @@
 
 
 <h2>👀 I’m interested in:</h2>
+<br>
 <div align="center">
  <p> 
   <img alt="Globe" width="22px" src="https://api.iconify.design/mdi:web.svg?color=%23007dff"/>&nbsp;  Web, 
@@ -90,7 +94,7 @@
 
 
 <h2>🌱 I’m currently learning:</h2>
-
+<br>
 <div align="center">
  <p> 
   <img alt="React Logo" width="22px" src="https://api.iconify.design/logos:react.svg?color=%2376ad8a"/>&nbsp;  React, 
@@ -107,13 +111,13 @@
  
  
 <h2>💞️ I’m looking to collaborate on:</h2>
-
+<br>
 <p align="center">open source web development, web development tools and game/ modding projects</p>
 <br>
 
 
 <h2>📊 Stats:</h2>
-
+<br>
 <div align="center">
  <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImmuneMoon&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="ImmuneMoon" />
