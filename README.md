@@ -102,22 +102,24 @@
  <p> 
   <img align="center" alt="Django Logo" width="22px" src="https://api.iconify.design/vscode-icons:file-type-django.svg?color=%23008aab"/>&nbsp;  Django 
  </p>
-<div>
+</div>
 <br>
  
  
 <h2>💞️ I’m looking to collaborate on</h2>
 
-<p>open source web development, web development tools and game/ modding projects</p>
-
-
+<p align="center">open source web development, web development tools and game/ modding projects</p>
 <br>
+
+
+<h2>📊 Stats</h2>
+
 <div align="center">
-<p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImmuneMoon&show_icons=true&locale=en&layout=compact" alt="ImmuneMoon" />
-</p> 
-<br>
-<p>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImmuneMoon&show_icons=true&locale=en" alt="ImmuneMoon" />
-</p>
+ <p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImmuneMoon&show_icons=true&locale=en&layout=compact" alt="ImmuneMoon" />
+ </p> 
+ <br>
+ <p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImmuneMoon&show_icons=true&locale=en" alt="ImmuneMoon" />
+ </p>
 </div>
