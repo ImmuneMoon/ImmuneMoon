@@ -68,6 +68,10 @@
  &nbsp;
  <img align="center" alt="Jquery" width="32px" src="https://api.iconify.design/akar-icons:jquery-fill.svg?color=%2300bef5" />
  &nbsp;
+ <img align="center" alt="React" width="32px" src="https://api.iconify.design/logos:react.svg?color=%2376ad8a" />
+ &nbsp;
+ <img align="center" alt="Django" width="32px" src="https://api.iconify.design/vscode-icons:file-type-django.svg?color=%23008aab" />
+ &nbsp;
  <img align="center" alt="Flask" width="32px" src="https://api.iconify.design/bx:bxl-flask.svg?color=%23e9efea" />
  &nbsp;
 </div>
