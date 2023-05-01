@@ -3,19 +3,31 @@
 - 🌱 I’m currently learning React, APIs & Django
 - 💞️ I’m looking to collaborate on open source web development, web development tools and game/ modding projects
 - 📫 Socials:
-<div displ>
+<div>
  <a href="https://twitter.com/ImmuneMoon">
   <img align="left" alt="ImmuneMoon | Twitter" width="22px" src="https://api.iconify.design/logos:twitter.svg?color=%237000a6" />
 </a>
 <a href="https://www.linkedin.com/in/in/p-alex-j/">
   <img align="left" alt="ImmuneMoon | Linkedin" width="22px" src="https://api.iconify.design/logos:linkedin-icon.svg?color=%237000a6" />
 </a>
-<br> Upwork - https://upwork.com/freelancers/~01d85f4c2bb6753670
-<br> Codepen - https://codepen.io/immunemoon
-<br> Stack Overflow - https://stackoverflow.com/users/16596160/immunemoon
-<br> Leetcode - https://leetcode.com/ImmuneMoon/
-<br> CodeWars - https://www.codewars.com/users/ImmuneMoon
-<br> HackerRank - https://www.hackerrank.com/ImmuneMoon
+<a href="https://upwork.com/freelancers/~01d85f4c2bb6753670">
+  <img align="left" alt="ImmuneMoon | Upwork" width="22px" src="https://api.iconify.design/simple-icons:upwork.svg?color=%2316bd00" />
+</a>
+<a href="https://codepen.io/immunemoon">
+  <img align="left" alt="ImmuneMoon | Codepen" width="22px" src="https://api.iconify.design/ant-design:codepen-square-filled.svg" />
+</a>
+<a href="https://stackoverflow.com/users/16596160/immunemoon">
+  <img align="left" alt="ImmuneMoon | StackOverflow" width="22px" src="https://api.iconify.design/logos:stackoverflow-icon.svg" />
+</a>
+<a href="https://leetcode.com/ImmuneMoon/">
+  <img align="left" alt="ImmuneMoon | Leetcode" width="22px" src="https://api.iconify.design/cib:leetcode.svg?color=%23ee9100" />
+</a>
+<a href="https://www.codewars.com/users/ImmuneMoon">
+  <img align="left" alt="ImmuneMoon | CodeWars" width="22px" src="https://api.iconify.design/simple-icons:codewars.svg?color=%23b11300" />
+</a>
+<a href="https://www.hackerrank.com/ImmuneMoon">
+  <img align="left" alt="ImmuneMoon | HackerRank" width="22px" src="https://api.iconify.design/simple-icons:hackerrank.svg?color=%2300bb27" />
+</a>
 </div>
 
 <p>
