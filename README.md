@@ -37,12 +37,11 @@
 
 <h2>👀 I’m interested in:</h2>
 <div>
-<p><img src="https://api.iconify.design/mdi:web.svg?color=%23007dff"/>Web</p> 
-<p><img src="https://api.iconify.design/zondicons:mobile-devices.svg?color=%23ecf5f6"/>Mobile</p> 
-<p><img src="https://api.iconify.design/bx:bxs-game.svg?color=%23ffeb01"/>Game</p>
-<p>&</p> 
-<p><img src="https://api.iconify.design/eos-icons:machine-learning-outlined.svg?color=%2376ad8a"/>Machine Learning/ A.I.</p>
-<p>development</p>
+<img alt="Globe" width="22px" src="https://api.iconify.design/mdi:web.svg?color=%23007dff"/><p>Web</p> 
+<img alt="Mobile Devices" width="22px" src="https://api.iconify.design/zondicons:mobile-devices.svg?color=%23ecf5f6"/><p>Mobile</p> 
+<img alt="Pac-Man" width="22px" src="https://api.iconify.design/bx:bxs-game.svg?color=%23ffeb01"/><p>Game</p>
+<p>&</p>
+<img alt="Robot" width="22px" src="https://api.iconify.design/eos-icons:machine-learning-outlined.svg?color=%2376ad8a"/><p>Machine Learning/ A.I.</p>
 </div>
 - 🌱 I’m currently learning React, APIs & Django
 - 💞️ I’m looking to collaborate on open source web development, web development tools and game/ modding projects
