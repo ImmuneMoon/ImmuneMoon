@@ -5,10 +5,10 @@
 - 📫 Socials:
 <div displ>
  <a href="https://twitter.com/ImmuneMoon">
-  <img align="left" alt="ImmuneMoon | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="ImmuneMoon | Twitter" width="22px" src="https://api.iconify.design/logos:twitter.svg?color=%237000a6" />
 </a>
 <a href="https://www.linkedin.com/in/in/p-alex-j/">
-  <img align="left" alt="ImmuneMoon | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="ImmuneMoon | Linkedin" width="22px" src="https://api.iconify.design/logos:linkedin-icon.svg?color=%237000a6" />
 </a>
 <br> Upwork - https://upwork.com/freelancers/~01d85f4c2bb6753670
 <br> Codepen - https://codepen.io/immunemoon
