@@ -14,7 +14,7 @@
   <img align="left" alt="ImmuneMoon | Upwork" width="22px" src="https://api.iconify.design/simple-icons:upwork.svg?color=%2316bd00" />
 </a>
 <a href="https://codepen.io/immunemoon">
-  <img align="left" alt="ImmuneMoon | Codepen" width="22px" src="https://api.iconify.design/ant-design:codepen-square-filled.svg" />
+  <img align="left" alt="ImmuneMoon | Codepen" width="22px" src="https://api.iconify.design/ant-design:codepen-outlined.svg?color=%23f3fff7" />
 </a>
 <a href="https://stackoverflow.com/users/16596160/immunemoon">
   <img align="left" alt="ImmuneMoon | StackOverflow" width="22px" src="https://api.iconify.design/logos:stackoverflow-icon.svg" />
