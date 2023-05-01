@@ -52,7 +52,7 @@
  &nbsp;
  <img align="center" alt="SQLite" width="32px" src="https://api.iconify.design/file-icons:sqlite.svg?color=%23009eee" />
  &nbsp;
- <img align="center" alt="C" width="36px" src="https://api.iconify.design/mdi:language-c.svg?color=%23004dff" />
+ <img align="center" alt="C" width="40px" src="https://api.iconify.design/mdi:language-c.svg?color=%23004dff" />
 </div>
 <br>
 
