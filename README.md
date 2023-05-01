@@ -1,5 +1,5 @@
 <div align="center">
- <a href="https://twitter.com/ImmuneMoon">
+ <a href="https://twitter.com/ImmuneMoon" style="margin: 10px;">
   <img align="center" alt="ImmuneMoon | Twitter" width="22px" src="https://api.iconify.design/logos:twitter.svg?color=%237000a6" />
 </a>
 <a href="https://www.linkedin.com/in/in/p-alex-j/">
