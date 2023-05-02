@@ -133,7 +133,7 @@
 </div>
 <br>
 
-<h2>📖 Badges:</h2>
+<h2>📛 Badges:</h2>
 <br>
 <div align="center">
  <a href="https://www.codewars.com/users/ImmuneMoon">
