@@ -116,7 +116,7 @@
  
 <h2>💞️ I’m looking to collaborate on:</h2>
 <br>
-<p align="center">open source web development, web development tools and game/ modding projects</p>
+<p align="center">Open source web development projects, web development tools and game/ modding projects</p>
 <br>
 
 
@@ -124,10 +124,19 @@
 <br>
 <div align="center">
  <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImmuneMoon&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="ImmuneMoon" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImmuneMoon&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="ImmuneMoon Top Langs" />
  </p> 
  <br>
  <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImmuneMoon&show_icons=true&locale=en&theme=nightowl" alt="ImmuneMoon" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImmuneMoon&show_icons=true&locale=en&theme=nightowl" alt="ImmuneMoon Stats" />
  </p>
+</div>
+<br>
+
+<h2>📖 Misc:</h2>
+<br>
+<div align="center">
+ <img src="https://www.codewars.com/users/ImmuneMoon/badges/micro" alt="CodeWars Rank"/>
+ &nbsp;
+ <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FImmuneMoon&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/>
 </div>
