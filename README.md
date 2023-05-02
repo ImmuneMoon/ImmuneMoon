@@ -133,10 +133,14 @@
 </div>
 <br>
 
-<h2>📖 Misc:</h2>
+<h2>📖 Badges:</h2>
 <br>
 <div align="center">
- <img width="150px" src="https://www.codewars.com/users/ImmuneMoon/badges/micro" alt="CodeWars Rank"/>
+ <a href="https://www.codewars.com/users/ImmuneMoon">
+  <img align="center" width="150px" src="https://www.codewars.com/users/ImmuneMoon/badges/micro" alt="CodeWars Rank"/>
+ </a>
  &nbsp;
- <img width="150px" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FImmuneMoon&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/>
+ <a href="https://leetcode.com/ImmuneMoon/">
+  <img align="center" width="150px" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FImmuneMoon&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/>
+ </a>
 </div>
