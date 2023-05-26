@@ -81,10 +81,10 @@
 <br>
 <div align="center">
  <p> 
-  <img alt="Globe" width="22px" src="https://api.iconify.design/mdi:web.svg?color=%23007dff"/>&nbsp;  Web, 
+  <img alt="Globe" width="22px" src="https://api.iconify.design/mdi:web.svg?color=%23007dff"/>&nbsp;  Web 
  </p> 
  <p> 
-  <img alt="Mobile Devices" width="22px" src="https://api.iconify.design/zondicons:mobile-devices.svg?color=%23ecf5f6"/>&nbsp;  Mobile, 
+  <img alt="Mobile Devices" width="22px" src="https://api.iconify.design/zondicons:mobile-devices.svg?color=%23ecf5f6"/>&nbsp;  Mobile 
  </p> 
  <p> 
   <img alt="Pac-Man" width="22px" src="https://api.iconify.design/bx:bxs-game.svg?color=%23ffeb01"/>&nbsp;  Game 
@@ -101,7 +101,7 @@
 <br>
 <div align="center">
  <p> 
-  <img alt="React Logo" width="22px" src="https://api.iconify.design/logos:react.svg?color=%2376ad8a"/>&nbsp;  React, 
+  <img alt="React Logo" width="22px" src="https://api.iconify.design/logos:react.svg?color=%2376ad8a"/>&nbsp;  React 
  </p>
  <p> 
   <img alt="API" width="22px" src="https://api.iconify.design/carbon:api-1.svg?color=%23008aab"/>&nbsp;  APIs 
