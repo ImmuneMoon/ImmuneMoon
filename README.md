@@ -106,9 +106,21 @@
  <p> 
   <img alt="API" width="22px" src="https://api.iconify.design/carbon:api-1.svg?color=%23008aab"/>&nbsp;  APIs 
  </p>
- <p>&</p>
  <p> 
   <img alt="Django Logo" width="22px" src="https://api.iconify.design/vscode-icons:file-type-django.svg?color=%23008aab"/>&nbsp;  Django 
+ </p>
+ <p> 
+  <img alt="Bash Logo" width="22px" src="https://api.iconify.design/logos:bash-icon.svg"/>&nbsp;  Bash 
+ </p>
+ <p> 
+  <img alt="Docker Logo" width="22px" src="https://api.iconify.design/logos:docker-icon.svg"/>&nbsp;  Docker 
+ </p>
+ <p> 
+  <img alt="Lua Logo" width="22px" src="https://api.iconify.design/devicon:lua.svg"/>&nbsp;  Lua 
+ </p>
+ <p>&</p>
+ <p> 
+  <img alt="Shopify Logo" width="22px" src="https://api.iconify.design/logos:shopify.svg"/>&nbsp;  Shopify 
  </p>
 </div>
 <br>
