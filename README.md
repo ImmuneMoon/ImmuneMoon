@@ -152,11 +152,15 @@
 <h2>📛 Badges:</h2>
 <br>
 <div align="center">
- <a href="https://www.codewars.com/users/ImmuneMoon">
+ <a href="https://www.codewars.com/users/ImmuneMoon/">
   <img align="center" width="150px" src="https://www.codewars.com/users/ImmuneMoon/badges/micro" alt="CodeWars Rank"/>
  </a>
  &nbsp;
  <a href="https://leetcode.com/ImmuneMoon/">
   <img align="center" width="150px" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FImmuneMoon&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/>
+ </a>
+ &nbsp;
+ <a href="https://tryhackme.com/p/ImmuneMoon/">
+  <img align="center" width="200px" src="https://tryhackme-badges.s3.amazonaws.com/ImmuneMoon.png" alt="TryHackMe Badge"/>
  </a>
 </div>
