@@ -56,6 +56,8 @@
  &nbsp;
  <img align="center" alt="Python" width="32px" src="https://api.iconify.design/vscode-icons:file-type-python.svg?color=%23004dff" />
  &nbsp;
+ <img align="center" alt="GameMaker Lang" width="32px" src="https://api.iconify.design/skill-icons:gamemakerstudio.svg" />
+ &nbsp;
  <img align="center" alt="SQLite" width="32px" src="https://api.iconify.design/file-icons:sqlite.svg?color=%23009eee" />
  &nbsp;
  <img align="center" alt="C" width="40px" src="https://api.iconify.design/mdi:language-c.svg?color=%23004dff" />
@@ -75,6 +77,8 @@
  <img align="center" alt="React" width="32px" src="https://api.iconify.design/logos:react.svg?color=%2376ad8a" />
  &nbsp;
  <img align="center" alt="Django" width="32px" src="https://api.iconify.design/vscode-icons:file-type-django.svg?color=%23008aab" />
+ &nbsp;
+ <img align="center" alt="GameMaker Studio 2" width="32px" src="https://api.iconify.design/skill-icons:gamemakerstudio.svg" />
  &nbsp;
  <img align="center" alt="Flask" width="32px" src="https://api.iconify.design/bx:bxl-flask.svg?color=%23e9efea" />
  &nbsp;
