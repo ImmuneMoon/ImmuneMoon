@@ -105,7 +105,7 @@
 <br>
 
 
-<h2>🌱 I’m currently learning:</h2>
+<h2>🌱 I’m currently learning/ interested in learning:</h2>
 <br>
 <div align="center">
  <p> 
@@ -125,6 +125,9 @@
  </p>
  <p> 
   <img alt="Lua Logo" width="22px" src="https://api.iconify.design/devicon:lua.svg"/>&nbsp;  Lua 
+ </p>
+ <p> 
+  <img alt="GameMaker Logo" width="22px" src="https://api.iconify.design/skill-icons:gamemakerstudio.svg"/>&nbsp;  GameMaker/ GML 
  </p>
  <p>&</p>
  <p> 
