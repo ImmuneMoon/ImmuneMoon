@@ -6,10 +6,6 @@
 <h2>📬 Socials:</h2>
 <br>
 <div align="center">
- <a href="https://twitter.com/ImmuneMoon">
-  <img align="center" alt="ImmuneMoon | Twitter" width="32px" src="https://api.iconify.design/logos:twitter.svg?color=%237000a6" />
-</a>
- &nbsp;
 <a href="https://www.linkedin.com/in/in/p-alex-j/">
   <img align="center" alt="ImmuneMoon | Linkedin" width="32px" src="https://api.iconify.design/logos:linkedin-icon.svg?color=%237000a6" />
 </a>
