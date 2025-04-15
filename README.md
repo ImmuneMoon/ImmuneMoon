@@ -4,8 +4,10 @@
 
 ---
 
-## 📬 Connect With Me
 <div>
+  
+  ## 📬 Connect With Me
+  
   <p align="center">
     <a href="https://www.linkedin.com/in/in/p-alex-j/" style="margin: 0 25px;">
         <img align="center" alt="LinkedIn" width="32px" src="https://api.iconify.design/logos:linkedin-icon.svg?color=%237000a6" title="LinkedIn"/>
@@ -38,15 +40,13 @@
         <img align="center" alt="CSSBattle" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBCxgRGerYM474nMdbZlc_-HE048BZXdAMFGCpOApdIA&s" title="CSS Battle (code golf for CSS)"/>
     </a>
   </p>
-
----
-</div>
-
-## 🧰 Tech Stack
-<div>
   
-### 💻 Languages
-<p align="center" margin="50%,0">
+  ---
+  
+  ## 🧰 Tech Stack
+  
+  ### 💻 Languages
+  <p align="center" margin="50%,0">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
       <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" width="32px" alt="HTML" title="HTML (HyperText Markup Language)"/>
     </a> 
@@ -76,64 +76,68 @@
     </a> 
     &nbsp;&nbsp;
   </p>
-</div>
+    
+  ### 🧱 Frameworks & Tools
   
-### 🧱 Frameworks & Tools
-<div>
   <p align="center">
     <a href="https://getbootstrap.com/">
-        <img src="https://api.iconify.design/logos:bootstrap.svg" width="32px" alt="Bootstrap" title="Bootstrap (CSS framework)"/>
+      <img src="https://api.iconify.design/logos:bootstrap.svg" width="32px" alt="Bootstrap" title="Bootstrap (CSS framework)"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://tailwindcss.com/" style="margin: 0 10px;">
-      <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="32px" alt="TailwindCSS" title="Tailwind CSS (utility-first CSS)"/>
+    <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="32px" alt="TailwindCSS" title="Tailwind CSS (utility-first CSS)"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://jquery.com/" style="margin: 0 10px;">
-      <img src="https://api.iconify.design/akar-icons:jquery-fill.svg?color=%2300bef5" width="32px" alt="jQuery" title="jQuery (JS library for DOM)"/>
+    <img src="https://api.iconify.design/akar-icons:jquery-fill.svg?color=%2300bef5" width="32px" alt="jQuery" title="jQuery (JS library for DOM)"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://react.dev/" style="margin: 0 10px;">
-      <img src="https://api.iconify.design/logos:react.svg" width="32px" alt="React" title="React (JavaScript UI library)"/>
+    <img src="https://api.iconify.design/logos:react.svg" width="32px" alt="React" title="React (JavaScript UI library)"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://docs.djangoproject.com/" style="margin: 0 10px;">
-      <img src="https://api.iconify.design/vscode-icons:file-type-django.svg?color=%23008aab" width="32px" alt="Django" title="Django (Python web framework)"/>
+    <img src="https://api.iconify.design/vscode-icons:file-type-django.svg?color=%23008aab" width="32px" alt="Django" title="Django (Python web framework)"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://flask.palletsprojects.com/" style="margin: 0 10px;">
-      <img src="https://api.iconify.design/bx:bxl-flask.svg?color=%23e9efea" width="32px" alt="Flask" title="Flask (lightweight Python web framework)"/>
+    <img src="https://api.iconify.design/bx:bxl-flask.svg?color=%23e9efea" width="32px" alt="Flask" title="Flask (lightweight Python web framework)"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://www.gnu.org/software/bash/" style="margin: 0 10px;">
-      <img src="https://api.iconify.design/logos:bash-icon.svg" width="32px" alt="Bash" title="Bash (shell scripting)"/>
+    <img src="https://api.iconify.design/logos:bash-icon.svg" width="32px" alt="Bash" title="Bash (shell scripting)"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://www.docker.com/" style="margin: 0 10px;">
-      <img src="https://api.iconify.design/logos:docker-icon.svg" width="40px" alt="Docker" title="Docker (containerization platform)"/>
+    <img src="https://api.iconify.design/logos:docker-icon.svg" width="40px" alt="Docker" title="Docker (containerization platform)"/>
     </a>
     &nbsp;&nbsp;
   </p>
----
-</div>
+  
+  ---
 
-## 🔭 Interests
 <div>
+  
+## 🔭 Interests
+
 <b>
-<p align="center">
-  🌐 Web Dev &nbsp; | &nbsp;
-  📱 Mobile &nbsp; | &nbsp;
-  🕹 Game Dev &nbsp; | &nbsp;
-  🖥 Software Dev &nbsp; | &nbsp;
-  🤖 Machine Learning
-</p>
+  <p align="center">
+    🌐 Web Dev &nbsp; | &nbsp;
+    📱 Mobile &nbsp; | &nbsp;
+    🕹 Game Dev &nbsp; | &nbsp;
+    🖥 Software Dev &nbsp; | &nbsp;
+    🤖 Machine Learning
+  </p>
 </b>
 
 ---
+
 </div>
 
-## 📚 Currently Learning
 <div>
+  
+  ## 📚 Currently Learning
+
   <p align="center">
     <a href="https://react.dev/">
       <img src="https://api.iconify.design/logos:react.svg?color=%2376ad8a" width="32px" alt="React" title="React (JavaScript UI library)"/>
@@ -156,29 +160,36 @@
     </a>
   </p>
 
-  ---
+---
+
 </div>
 
-## 🤝 Looking to Collaborate On
 <div>
+
+## 🤝 Looking to Collaborate On
   
   > Open-source projects, web development tooling, and game/modding communities. If it involves performance, UX polish, or clever architecture — I’m interested.
-  
-  ---
+
+---
+
 </div>
-  
-## 📊 GitHub Stats
-  
+
 <div>
+  
+  ## 📊 GitHub Stats
+    
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImmuneMoon&layout=compact&theme=nightowl"  height="200px" />
     <img src="https://github-readme-stats.vercel.app/api?username=ImmuneMoon&show_icons=true&theme=nightowl" height="200px" />
   </p>
   
   ---
+
 </div>
-## 🏅 Dev Badges
+
 <div>
+
+  ## 🏅 Dev Badges
   
   <p align="center">
     <img src="https://www.codewars.com/users/ImmuneMoon/badges/micro" alt="CodeWars" width="200px" />
@@ -189,8 +200,12 @@
   </p>
   
   ---
+  
 </div>
+
 <!-- Footer -->
 <p align="center">
-  <sub>Yes, this README is probably over-engineered anyways. Yes, I will still tweak it at 2am.</sub>
+  <sub>
+    Yes, this README is probably over-engineered anyways. Yes, I will still tweak it at 2am.
+  </sub>
 </p>
