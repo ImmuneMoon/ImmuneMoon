@@ -48,31 +48,31 @@
   
 ### 💻 Languages
 <p align="center" margin="50%,0">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="margin: 0 25px;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
       <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" width="32px" alt="HTML" title="HTML (HyperText Markup Language)"/>
     </a> 
     &nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="margin: 0 10px;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
       <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" width="32px" alt="CSS" title="CSS (Cascading Style Sheets)"/>
     </a> 
     &nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="margin: 0 10px;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://api.iconify.design/logos:javascript.svg" width="32px" alt="JavaScript" title="JavaScript (interactive web programming)"/>
     </a> 
     &nbsp;&nbsp;
-    <a href="https://docs.python.org/3/" style="margin: 0 10px;">
+    <a href="https://docs.python.org/3/">
       <img src="https://api.iconify.design/vscode-icons:file-type-python.svg" width="32px" alt="Python" title="Python (general-purpose programming)"/>
     </a> 
     &nbsp;&nbsp;
-    <a href="https://manual.yoyogames.com/" style="margin: 0 10px;">
+    <a href="https://manual.yoyogames.com/">
       <img src="https://api.iconify.design/skill-icons:gamemakerstudio.svg" width="32px" alt="GameMaker Language" title="GameMaker Language (GML)"/>
     </a> 
     &nbsp;&nbsp;
-    <a href="https://www.sqlite.org/docs.html" style="margin: 0 10px;">
+    <a href="https://www.sqlite.org/docs.html">
       <img  src="https://api.iconify.design/file-icons:sqlite.svg?color=%23009eee" width="32px" alt="SQLite" title="SQLite (embedded database engine)"/>
     </a> 
     &nbsp;&nbsp;
-    <a href="https://en.cppreference.com/w/c" style="margin: 5px 10px 0 10px;">
+    <a href="https://en.cppreference.com/w/c">
       <img src="https://api.iconify.design/mdi:language-c.svg?color=%23004dff" width="42px" alt="C" title="C Programming Language"/>
     </a> 
     &nbsp;&nbsp;
@@ -82,7 +82,7 @@
 ### 🧱 Frameworks & Tools
 <div>
   <p align="center">
-    <a href="https://getbootstrap.com/" style="margin: 0 10px;">
+    <a href="https://getbootstrap.com/">
         <img src="https://api.iconify.design/logos:bootstrap.svg" width="32px" alt="Bootstrap" title="Bootstrap (CSS framework)"/>
     </a>
     &nbsp;&nbsp;
@@ -141,7 +141,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/API">
-      <img src="https://api.iconify.design/carbon:api-1.svg?color=%23008aab" width="32px" alt="APIs" title="API Integration"/>\
+      <img src="https://api.iconify.design/carbon:api-1.svg?color=%23008aab" width="32px" alt="APIs" title="API Integration"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://docs.djangoproject.com/">
