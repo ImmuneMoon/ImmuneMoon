@@ -73,7 +73,7 @@
     </a> 
     &nbsp;&nbsp;
     <a href="https://en.cppreference.com/w/c" style="margin: 5px 10px 0 10px;">
-      <img src="https://api.iconify.design/mdi:language-c.svg?color=%23004dff" width="47px" alt="C" title="C Programming Language"/>
+      <img src="https://api.iconify.design/mdi:language-c.svg?color=%23004dff" width="42px" alt="C" title="C Programming Language"/>
     </a> 
     &nbsp;&nbsp;
   </p>
@@ -111,7 +111,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://www.docker.com/" style="margin: 0 10px;">
-      <img src="https://api.iconify.design/logos:docker-icon.svg" width="34px" alt="Docker" title="Docker (containerization platform)"/>
+      <img src="https://api.iconify.design/logos:docker-icon.svg" width="40px" alt="Docker" title="Docker (containerization platform)"/>
     </a>
     &nbsp;&nbsp;
   </p>
@@ -120,18 +120,15 @@
 
 ## 🔭 Interests
 <div>
+<b>
 <p align="center">
-  <img src="https://api.iconify.design/mdi:web.svg" width="22px" /> 
-  Web Dev &nbsp; | &nbsp;
-  <img src="https://api.iconify.design/zondicons:mobile-devices.svg" width="22px" /> 
-  Mobile &nbsp; | &nbsp;
-  <img src="https://api.iconify.design/bx:bxs-game.svg" width="22px" /> 
-  Game Dev &nbsp; | &nbsp;
-  <img src="https://api.iconify.design/bx:bxs-game.svg" width="22px" /> 
-  Software Dev &nbsp; | &nbsp;
-  <img src="https://api.iconify.design/eos-icons:machine-learning-outlined.svg" width="22px" /> 
-  Machine Learning
+  🌐 Web Dev &nbsp; | &nbsp;
+  📱 Mobile &nbsp; | &nbsp;
+  🕹 Game Dev &nbsp; | &nbsp;
+  🖥 Software Dev &nbsp; | &nbsp;
+  🤖 Machine Learning
 </p>
+</b>
 
 ---
 </div>
