@@ -107,7 +107,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/powershell/" style="margin: 0 10px;">
-  <img src="https://api.iconify.design/vscode-icons:file-type-powershell.svg" width="32px" alt="Powershell" title="Powershell (shell scripting)"/>
+  <img src="https://api.iconify.design/vscode-icons:file-type-powershell.svg" width="36px" alt="Powershell" title="Powershell (shell scripting)"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.docker.com/" style="margin: 0 10px;">
