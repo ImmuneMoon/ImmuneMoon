@@ -3,121 +3,121 @@
 <p align="center"><em>Web tinkerer • Game dev enthusiast • Systems-curious • Currently trying not to over-engineer this README</em></p>
 
 ---
+  
+## 📬 Connect With Me
 
-<div>
-  
-  ## 📬 Connect With Me
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/in/p-alex-j/" style="margin: 0 25px;">
-        <img align="center" alt="LinkedIn" width="32px" src="https://api.iconify.design/logos:linkedin-icon.svg?color=%237000a6" title="LinkedIn"/>
-    </a> &nbsp;&nbsp;
-    <a href="https://upwork.com/freelancers/~01d85f4c2bb6753670" style="margin: 0 10px;">
-        <img align="center" alt="Upwork" width="32px" src="https://api.iconify.design/simple-icons:upwork.svg?color=%2316bd00" title="Upwork"/>
-    </a> 
-    &nbsp;&nbsp;
-    <a href="https://codepen.io/immunemoon" style="margin: 0 10px;">
-        <img align="center" alt="Codepen" width="32px" src="https://api.iconify.design/ant-design:codepen-outlined.svg?color=%23f3fff7" title="CodePen (Front-end Playground)"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/16596160/immunemoon" style="margin: 0 10px;">
-        <img align="center" alt="StackOverflow" width="32px" src="https://api.iconify.design/logos:stackoverflow-icon.svg" title="Stack Overflow (Q&A for developers)"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://leetcode.com/ImmuneMoon/" style="margin: 0 10px;">
-        <img align="center" alt="Leetcode" width="32px" src="https://api.iconify.design/cib:leetcode.svg?color=%23ee9100" title="Leetcode (coding challenges platform)"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.codewars.com/users/ImmuneMoon" style="margin: 0 10px;">
-        <img align="center" alt="CodeWars" width="32px" src="https://api.iconify.design/simple-icons:codewars.svg?color=%23b11300" title="CodeWars (competitive programming)"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/ImmuneMoon" style="margin: 0 10px;">
-        <img align="center" alt="HackerRank" width="32px" src="https://api.iconify.design/simple-icons:hackerrank.svg?color=%2300bb27" title="HackerRank (interview prep and challenges)"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://cssbattle.dev/player/immunemoon" style="margin: 0 10px;">
-        <img align="center" alt="CSSBattle" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBCxgRGerYM474nMdbZlc_-HE048BZXdAMFGCpOApdIA&s" title="CSS Battle (code golf for CSS)"/>
-    </a>
-  </p>
-  
-  ---
-  
-  ## 🧰 Tech Stack
-  
-  ### 💻 Languages
-  <p align="center" margin="50%,0">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-      <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" width="32px" alt="HTML" title="HTML (HyperText Markup Language)"/>
-    </a> 
-    &nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-      <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" width="32px" alt="CSS" title="CSS (Cascading Style Sheets)"/>
-    </a> 
-    &nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://api.iconify.design/logos:javascript.svg" width="32px" alt="JavaScript" title="JavaScript (interactive web programming)"/>
-    </a> 
-    &nbsp;&nbsp;
-    <a href="https://docs.python.org/3/">
-      <img src="https://api.iconify.design/vscode-icons:file-type-python.svg" width="32px" alt="Python" title="Python (general-purpose programming)"/>
-    </a> 
-    &nbsp;&nbsp;
-    <a href="https://manual.yoyogames.com/">
-      <img src="https://api.iconify.design/skill-icons:gamemakerstudio.svg" width="32px" alt="GameMaker Language" title="GameMaker Language (GML)"/>
-    </a> 
-    &nbsp;&nbsp;
-    <a href="https://www.sqlite.org/docs.html">
-      <img  src="https://api.iconify.design/file-icons:sqlite.svg?color=%23009eee" width="32px" alt="SQLite" title="SQLite (embedded database engine)"/>
-    </a> 
-    &nbsp;&nbsp;
-    <a href="https://en.cppreference.com/w/c">
-      <img src="https://api.iconify.design/mdi:language-c.svg?color=%23004dff" width="42px" alt="C" title="C Programming Language"/>
-    </a> 
-    &nbsp;&nbsp;
-  </p>
-    
-  ### 🧱 Frameworks & Tools
-  
-  <p align="center">
-    <a href="https://getbootstrap.com/">
-      <img src="https://api.iconify.design/logos:bootstrap.svg" width="32px" alt="Bootstrap" title="Bootstrap (CSS framework)"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://tailwindcss.com/" style="margin: 0 10px;">
-    <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="32px" alt="TailwindCSS" title="Tailwind CSS (utility-first CSS)"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://jquery.com/" style="margin: 0 10px;">
-    <img src="https://api.iconify.design/akar-icons:jquery-fill.svg?color=%2300bef5" width="32px" alt="jQuery" title="jQuery (JS library for DOM)"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://react.dev/" style="margin: 0 10px;">
-    <img src="https://api.iconify.design/logos:react.svg" width="32px" alt="React" title="React (JavaScript UI library)"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://docs.djangoproject.com/" style="margin: 0 10px;">
-    <img src="https://api.iconify.design/vscode-icons:file-type-django.svg?color=%23008aab" width="32px" alt="Django" title="Django (Python web framework)"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://flask.palletsprojects.com/" style="margin: 0 10px;">
-    <img src="https://api.iconify.design/bx:bxl-flask.svg?color=%23e9efea" width="32px" alt="Flask" title="Flask (lightweight Python web framework)"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.gnu.org/software/bash/" style="margin: 0 10px;">
-    <img src="https://api.iconify.design/logos:bash-icon.svg" width="32px" alt="Bash" title="Bash (shell scripting)"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.docker.com/" style="margin: 0 10px;">
-    <img src="https://api.iconify.design/logos:docker-icon.svg" width="40px" alt="Docker" title="Docker (containerization platform)"/>
-    </a>
-    &nbsp;&nbsp;
-  </p>
-  
-  ---
+<p align="center">
+  <a href="https://www.linkedin.com/in/in/p-alex-j/" style="margin: 0 25px;">
+      <img align="center" alt="LinkedIn" width="32px" src="https://api.iconify.design/logos:linkedin-icon.svg?color=%237000a6" title="LinkedIn"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://upwork.com/freelancers/~01d85f4c2bb6753670" style="margin: 0 10px;">
+      <img align="center" alt="Upwork" width="32px" src="https://api.iconify.design/simple-icons:upwork.svg?color=%2316bd00" title="Upwork"/>
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://codepen.io/immunemoon" style="margin: 0 10px;">
+      <img align="center" alt="Codepen" width="32px" src="https://api.iconify.design/ant-design:codepen-outlined.svg?color=%23f3fff7" title="CodePen (Front-end Playground)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/16596160/immunemoon" style="margin: 0 10px;">
+      <img align="center" alt="StackOverflow" width="32px" src="https://api.iconify.design/logos:stackoverflow-icon.svg" title="Stack Overflow (Q&A for developers)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/ImmuneMoon/" style="margin: 0 10px;">
+      <img align="center" alt="Leetcode" width="32px" src="https://api.iconify.design/cib:leetcode.svg?color=%23ee9100" title="Leetcode (coding challenges platform)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.codewars.com/users/ImmuneMoon" style="margin: 0 10px;">
+      <img align="center" alt="CodeWars" width="32px" src="https://api.iconify.design/simple-icons:codewars.svg?color=%23b11300" title="CodeWars (competitive programming)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/ImmuneMoon" style="margin: 0 10px;">
+      <img align="center" alt="HackerRank" width="32px" src="https://api.iconify.design/simple-icons:hackerrank.svg?color=%2300bb27" title="HackerRank (interview prep and challenges)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://cssbattle.dev/player/immunemoon" style="margin: 0 10px;">
+      <img align="center" alt="CSSBattle" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBCxgRGerYM474nMdbZlc_-HE048BZXdAMFGCpOApdIA&s" title="CSS Battle (code golf for CSS)"/>
+  </a>
+</p>
 
-<div>
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+<p align="center" margin="50%,0">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" width="32px" alt="HTML" title="HTML (HyperText Markup Language)"/>
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" width="32px" alt="CSS" title="CSS (Cascading Style Sheets)"/>
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://api.iconify.design/logos:javascript.svg" width="32px" alt="JavaScript" title="JavaScript (interactive web programming)"/>
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://docs.python.org/3/">
+    <img src="https://api.iconify.design/vscode-icons:file-type-python.svg" width="32px" alt="Python" title="Python (general-purpose programming)"/>
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://manual.yoyogames.com/">
+    <img src="https://api.iconify.design/skill-icons:gamemakerstudio.svg" width="32px" alt="GameMaker Language" title="GameMaker Language (GML)"/>
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://www.sqlite.org/docs.html">
+    <img  src="https://api.iconify.design/file-icons:sqlite.svg?color=%23009eee" width="32px" alt="SQLite" title="SQLite (embedded database engine)"/>
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://en.cppreference.com/w/c">
+    <img src="https://api.iconify.design/mdi:language-c.svg?color=%23004dff" width="42px" alt="C" title="C Programming Language"/>
+  </a> 
+  &nbsp;&nbsp;
+</p>
   
+### 🧱 Frameworks & Tools
+
+<p align="center">
+  <a href="https://getbootstrap.com/">
+    <img src="https://api.iconify.design/logos:bootstrap.svg" width="32px" alt="Bootstrap" title="Bootstrap (CSS framework)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" style="margin: 0 10px;">
+  <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="32px" alt="TailwindCSS" title="Tailwind CSS (utility-first CSS)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://jquery.com/" style="margin: 0 10px;">
+  <img src="https://api.iconify.design/akar-icons:jquery-fill.svg?color=%2300bef5" width="32px" alt="jQuery" title="jQuery (JS library for DOM)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://react.dev/" style="margin: 0 10px;">
+  <img src="https://api.iconify.design/logos:react.svg" width="32px" alt="React" title="React (JavaScript UI library)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://docs.djangoproject.com/" style="margin: 0 10px;">
+  <img src="https://api.iconify.design/vscode-icons:file-type-django.svg?color=%23008aab" width="32px" alt="Django" title="Django (Python web framework)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://flask.palletsprojects.com/" style="margin: 0 10px;">
+  <img src="https://api.iconify.design/bx:bxl-flask.svg?color=%23e9efea" width="32px" alt="Flask" title="Flask (lightweight Python web framework)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/" style="margin: 0 10px;">
+  <img src="https://api.iconify.design/logos:bash-icon.svg" width="32px" alt="Bash" title="Bash (shell scripting)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/powershell/" style="margin: 0 10px;">
+  <img src="https://api.iconify.design/vscode-icons:file-type-powershell.svg" width="32px" alt="Powershell" title="Powershell (shell scripting)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.docker.com/" style="margin: 0 10px;">
+  <img src="https://api.iconify.design/logos:docker-icon.svg" width="40px" alt="Docker" title="Docker (containerization platform)"/>
+  </a>
+  &nbsp;&nbsp;
+</p>
+
+---
+
 ## 🔭 Interests
 
 <b>
@@ -130,9 +130,9 @@
   </p>
 </b>
 
+</div>
 ---
 
-</div>
 
 <div>
   
