@@ -131,8 +131,8 @@
 </b>
 
 </div>
----
 
+---
 
 <div>
   
@@ -160,9 +160,9 @@
     </a>
   </p>
 
----
-
 </div>
+
+---
 
 <div>
 
@@ -170,9 +170,9 @@
   
   > Open-source projects, web development tooling, and game/modding communities. If it involves performance, UX polish, or clever architecture — I’m interested.
 
----
-
 </div>
+
+---
 
 <div>
   
@@ -182,10 +182,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImmuneMoon&layout=compact&theme=nightowl"  height="200px" />
     <img src="https://github-readme-stats.vercel.app/api?username=ImmuneMoon&show_icons=true&theme=nightowl" height="200px" />
   </p>
-  
-  ---
 
 </div>
+
+---
 
 <div>
 
@@ -199,9 +199,9 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/ImmuneMoon.png" alt="TryHackMe" width="200px" />
   </p>
   
-  ---
-  
 </div>
+
+---
 
 <!-- Footer -->
 <p align="center">
