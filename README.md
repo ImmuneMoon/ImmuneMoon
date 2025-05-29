@@ -1,5 +1,5 @@
 ---
-<h1 align="center">Hi, I'm @Fulllion (formerly ImmuneMoon) 👋</h1>
+<h1 align="center">Hi, I'm @Fulllion (or ImmuneMoon) 👋</h1>
 <p align="center"><em>Web tinkerer • Game dev enthusiast • Systems-curious • Currently trying not to over-engineer this README</em></p>
 
 ---
