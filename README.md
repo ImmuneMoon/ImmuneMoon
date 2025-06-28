@@ -114,6 +114,10 @@
   <img src="https://api.iconify.design/logos:docker-icon.svg" width="40px" alt="Docker" title="Docker (containerization platform)"/>
   </a>
   &nbsp;&nbsp;
+  <a href="https://firebase.google.com/" style="margin: 0 10px;">
+  <img src="https://api.iconify.design/devicon:firebase.svg" width="40px" alt="Firebase" title="Firebase (AI development tool)"/>
+  </a>
+  &nbsp;&nbsp;
 </p>
 
 ---
