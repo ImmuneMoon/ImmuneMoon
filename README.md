@@ -7,9 +7,6 @@
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/in/p-alex-j/" style="margin: 0 25px;">
-      <img align="center" alt="LinkedIn" width="32px" src="https://api.iconify.design/logos:linkedin-icon.svg?color=%237000a6" title="LinkedIn"/>
-  </a> &nbsp;&nbsp;
   <a href="https://upwork.com/freelancers/~01d85f4c2bb6753670" style="margin: 0 10px;">
       <img align="center" alt="Upwork" width="32px" src="https://api.iconify.design/simple-icons:upwork.svg?color=%2316bd00" title="Upwork"/>
   </a> 
