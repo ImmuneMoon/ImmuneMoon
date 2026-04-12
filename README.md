@@ -34,6 +34,10 @@
   <a href="https://cssbattle.dev/player/immunemoon" style="margin: 0 10px;">
       <img align="center" alt="CSSBattle" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBCxgRGerYM474nMdbZlc_-HE048BZXdAMFGCpOApdIA&s" title="CSS Battle (code golf for CSS)"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="fulllioncreativeworks@gmail.com" style="margin: 0 10px;">
+      <img align="center" alt="CSSBattle" width="32px" src="https://api.iconify.design/material-symbols:alternate-email.svg?color=%23ff1111" title="Email"/>
+  </a>
 </p>
 
 ---
