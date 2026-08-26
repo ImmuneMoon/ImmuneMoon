@@ -62,6 +62,10 @@
     <img src="https://api.iconify.design/logos:typescript-icon.svg" width="32px" alt="TypeScript" title="TypeScript (Strongly typed JavaScript)"/>
   </a> 
   &nbsp;&nbsp;
+  <a href="https://react.dev/">
+    <img src="https://api.iconify.design/logos:react.svg?color=%2376ad8a" width="32px" alt="React" title="React (JavaScript UI library)"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://docs.python.org/3/">
     <img src="https://api.iconify.design/vscode-icons:file-type-python.svg" width="32px" alt="Python" title="Python (general-purpose programming)"/>
   </a> 
@@ -151,9 +155,6 @@
   ## 📚 Currently Learning
 
   <p align="center">
-    <a href="https://react.dev/">
-      <img src="https://api.iconify.design/logos:react.svg?color=%2376ad8a" width="32px" alt="React" title="React (JavaScript UI library)"/>
-    </a>
     &nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/API">
       <img src="https://api.iconify.design/carbon:api-1.svg?color=%23008aab" width="32px" alt="APIs" title="API Integration"/>
