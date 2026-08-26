@@ -36,7 +36,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:fulllioncreativeworks@gmail.com" style="margin: 0 10px;">
-      <img align="center" alt="CSSBattle" width="32px" src="https://api.iconify.design/material-symbols:alternate-email.svg?color=%23ff1111" title="Email"/>
+      <img align="center" alt="Email" width="32px" src="https://api.iconify.design/material-symbols:alternate-email.svg?color=%23ff1111" title="Email"/>
   </a>
 </p>
 
@@ -56,6 +56,10 @@
   &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://api.iconify.design/logos:javascript.svg" width="32px" alt="JavaScript" title="JavaScript (interactive web programming)"/>
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://api.iconify.design/logos:typescript-icon.svg" width="32px" alt="TypeScript" title="TypeScript (Strongly typed JavaScript)"/>
   </a> 
   &nbsp;&nbsp;
   <a href="https://docs.python.org/3/">
@@ -116,7 +120,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://firebase.google.com/" style="margin: 0 10px;">
-  <img src="https://api.iconify.design/devicon:firebase.svg" width="40px" alt="Firebase" title="Firebase (AI development tool)"/>
+  <img src="https://api.iconify.design/devicon:firebase.svg" width="40px" alt="Firebase" title="Firebase (Backend as a Service)"/>
   </a>
   &nbsp;&nbsp;
 </p>
@@ -181,11 +185,12 @@
 
 <div>
   
-  ## 📊 GitHub Stats
-    
+## 📊 GitHub Stats
+
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImmuneMoon&layout=compact&theme=nightowl"  height="200px" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ImmuneMoon&show_icons=true&theme=nightowl" height="200px" />
+    <a href="https://github.com/ImmuneMoon">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImmuneMoon&theme=nightowl&hide_border=true" height="195px" alt="GitHub Streak" />
+    </a>
   </p>
 
 </div>
