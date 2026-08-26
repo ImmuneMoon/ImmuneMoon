@@ -123,6 +123,9 @@
   <img src="https://api.iconify.design/devicon:firebase.svg" width="40px" alt="Firebase" title="Firebase (Backend as a Service)"/>
   </a>
   &nbsp;&nbsp;
+  <a href="https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview" style="margin: 0 10px;">
+  <img src="https://api.iconify.design/simple-icons:anthropic.svg?color=%23d97757" width="32px" alt="Claude Code" title="Claude Code (AI Coding Agent)"/>
+  </a>
 </p>
 
 ---
