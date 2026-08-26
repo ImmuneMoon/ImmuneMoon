@@ -62,10 +62,6 @@
     <img src="https://api.iconify.design/logos:typescript-icon.svg" width="32px" alt="TypeScript" title="TypeScript (Strongly typed JavaScript)"/>
   </a> 
   &nbsp;&nbsp;
-  <a href="https://react.dev/">
-    <img src="https://api.iconify.design/logos:react.svg?color=%2376ad8a" width="32px" alt="React" title="React (JavaScript UI library)"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://docs.python.org/3/">
     <img src="https://api.iconify.design/vscode-icons:file-type-python.svg" width="32px" alt="Python" title="Python (general-purpose programming)"/>
   </a> 
@@ -97,6 +93,10 @@
   &nbsp;&nbsp;
   <a href="https://jquery.com/" style="margin: 0 10px;">
   <img src="https://api.iconify.design/akar-icons:jquery-fill.svg?color=%2300bef5" width="32px" alt="jQuery" title="jQuery (JS library for DOM)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://react.dev/">
+    <img src="https://api.iconify.design/logos:react.svg?color=%2376ad8a" width="32px" alt="React" title="React (JavaScript UI library)"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://docs.djangoproject.com/" style="margin: 0 10px;">
