@@ -99,10 +99,6 @@
   <img src="https://api.iconify.design/akar-icons:jquery-fill.svg?color=%2300bef5" width="32px" alt="jQuery" title="jQuery (JS library for DOM)"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://react.dev/" style="margin: 0 10px;">
-  <img src="https://api.iconify.design/logos:react.svg" width="32px" alt="React" title="React (JavaScript UI library)"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://docs.djangoproject.com/" style="margin: 0 10px;">
   <img src="https://api.iconify.design/vscode-icons:file-type-django.svg?color=%23008aab" width="32px" alt="Django" title="Django (Python web framework)"/>
   </a>
