@@ -146,6 +146,10 @@ Repair, setup, and quality-of-life utilities from IT consulting work.
     <img src="https://api.iconify.design/file-icons:sqlite.svg?color=%23009eee" width="32px" alt="SQLite" title="SQLite (embedded database engine)"/>
   </a>
   &nbsp;&nbsp;
+  <a href="https://webrtc.org/">
+    <img src="https://api.iconify.design/logos:webrtc.svg" width="32px" alt="WebRTC" title="WebRTC (peer-to-peer real-time networking)"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://firebase.google.com/">
     <img src="https://api.iconify.design/devicon:firebase.svg" width="40px" alt="Firebase" title="Firebase (Backend as a Service)"/>
   </a>
@@ -168,6 +172,14 @@ Repair, setup, and quality-of-life utilities from IT consulting work.
   <a href="https://www.docker.com/">
     <img src="https://api.iconify.design/logos:docker-icon.svg" width="40px" alt="Docker" title="Docker (containerization platform)"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://foundryvtt.com/">
+    <img src="https://api.iconify.design/simple-icons:foundryvirtualtabletop.svg?color=%23ff6400" width="32px" alt="Foundry VTT" title="Foundry Virtual Tabletop (system development)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://jrsoftware.org/isinfo.php">
+    <img src="https://api.iconify.design/vscode-icons:file-type-innosetup.svg" width="32px" alt="Inno Setup" title="Inno Setup (Windows installer builder)"/>
+  </a>
 </p>
 
 <p align="center"><sub><b>AI Tooling</b></sub></p>
@@ -179,10 +191,6 @@ Repair, setup, and quality-of-life utilities from IT consulting work.
   <a href="https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview">
     <img src="https://api.iconify.design/simple-icons:anthropic.svg?color=%23d97757" width="32px" alt="Claude Code" title="Claude Code (AI Coding Agent)"/>
   </a>
-</p>
-
-<p align="center">
-  <sub>Also in the toolbox: WebRTC / P2P networking, Foundry VTT system dev, Inno Setup.</sub>
 </p>
 
 ---
