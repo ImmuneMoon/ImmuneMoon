@@ -81,7 +81,6 @@
 </p>
   
 ### 🧱 Frameworks & Tools
-
 <p align="center">
   <a href="https://getbootstrap.com/">
     <img src="https://api.iconify.design/logos:bootstrap.svg" width="32px" alt="Bootstrap" title="Bootstrap (CSS framework)"/>
@@ -97,6 +96,10 @@
   &nbsp;&nbsp;
   <a href="https://react.dev/">
     <img src="https://api.iconify.design/logos:react.svg?color=%2376ad8a" width="32px" alt="React" title="React (JavaScript UI library)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.electronjs.org/" style="margin: 0 10px;">
+  <img src="https://api.iconify.design/logos:electron.svg" width="32px" alt="Electron" title="Electron (cross-platform desktop apps with web tech)"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://docs.djangoproject.com/" style="margin: 0 10px;">
@@ -121,6 +124,10 @@
   &nbsp;&nbsp;
   <a href="https://firebase.google.com/" style="margin: 0 10px;">
   <img src="https://api.iconify.design/devicon:firebase.svg" width="40px" alt="Firebase" title="Firebase (Backend as a Service)"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://antigravity.google/" style="margin: 0 10px;">
+  <img src="https://api.iconify.design/thesvg-color:google-antigravity.svg" width="32px" alt="Google Antigravity" title="Google Antigravity (agentic AI IDE)"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview" style="margin: 0 10px;">
