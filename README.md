@@ -20,29 +20,31 @@
 
 <p align="center">
   <a href="https://github.com/ImmuneMoon/Waypoint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=Waypoint&theme=nightowl&hide_border=true" alt="Waypoint" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=Waypoint&theme=nightowl&hide_border=true&card_width=400" alt="Waypoint" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ImmuneMoon/Building-Firebase-Apps-in-Google-Antigravity-IDE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=Building-Firebase-Apps-in-Google-Antigravity-IDE&theme=nightowl&hide_border=true" alt="Building Firebase Apps in Google Antigravity IDE" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=Building-Firebase-Apps-in-Google-Antigravity-IDE&theme=nightowl&hide_border=true&card_width=400" alt="Building Firebase Apps in Google Antigravity IDE" />
   </a>
-</p>
-<p align="center">
+  <br><br>
   <a href="https://github.com/ImmuneMoon/GSuite-Dark-Mode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=GSuite-Dark-Mode&theme=nightowl&hide_border=true" alt="GSuite Dark Mode" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=GSuite-Dark-Mode&theme=nightowl&hide_border=true&card_width=400" alt="GSuite Dark Mode" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ImmuneMoon/Fulllion-s-Tabletop-Character-Creator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=Fulllion-s-Tabletop-Character-Creator&theme=nightowl&hide_border=true" alt="SheetForge" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=Fulllion-s-Tabletop-Character-Creator&theme=nightowl&hide_border=true&card_width=400" alt="SheetForge" />
   </a>
+  <br><br>
   <a href="https://github.com/ImmuneMoon/Super-Power-Options">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=Super-Power-Options&theme=nightowl&hide_border=true" alt="Super Power Options" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=Super-Power-Options&theme=nightowl&hide_border=true&card_width=400" alt="Super Power Options" />
   </a>
-</p>
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ImmuneMoon/URL-web-scraper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=URL-web-scraper&theme=nightowl&hide_border=true" alt="URL Web Scraper" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=URL-web-scraper&theme=nightowl&hide_border=true&card_width=400" alt="URL Web Scraper" />
   </a>
+  <br><br>
   <a href="https://github.com/ImmuneMoon/Proj-ADV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=Proj-ADV&theme=nightowl&hide_border=true" alt="Proj-ADV" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=Proj-ADV&theme=nightowl&hide_border=true&card_width=400" alt="Proj-ADV" />
   </a>
 </p>
 
