@@ -263,9 +263,6 @@ Repair, setup, and quality-of-life utilities from IT consulting work.
 
 <p align="center">
   <a href="https://github.com/ImmuneMoon">
-    <img src="https://github-readme-stats.vercel.app/api?username=ImmuneMoon&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true" height="195px" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/ImmuneMoon">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImmuneMoon&theme=nightowl&hide_border=true" height="195px" alt="GitHub Streak" />
   </a>
 </p>
