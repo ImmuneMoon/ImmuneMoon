@@ -56,7 +56,7 @@
 - **[URL Web Scraper](https://github.com/ImmuneMoon/URL-web-scraper)** — Axios + Cheerio scraper that pulls every link off a page, renders them as a list, and emits JSON. Built as an internship task.
 - **[Proj-ADV](https://github.com/ImmuneMoon/Proj-ADV)** — Retro-style monster-battle RPG written entirely in GameMaker Language, with art and story from a small team.
 
-**More projects:** [Shadowbase FoundryVTT System](https://github.com/ImmuneMoon/Shadowbase-FoundryVTT-System) (Foundry system for [shadow-base.com](https://shadow-base.com)) · [Say What Video Reacts](https://github.com/ImmuneMoon/Say-What-Video-Reacts-Frontend) (React + Firebase AI video reactor) · [Build-Deploy-Run](https://github.com/ImmuneMoon/Build-Deploy-Run) (package Python apps as executables and Docker images) · [10,000 Hour Calculator](https://github.com/ImmuneMoon/10-000-Hour-Calculator)
+**More projects:** [Shadowbase FoundryVTT System](https://github.com/ImmuneMoon/Shadowbase-FoundryVTT-System) (Foundry system for [shadow-base.com](https://shadow-base.com)) · (React + Firebase AI video reactor) · [Build-Deploy-Run](https://github.com/ImmuneMoon/Build-Deploy-Run) (package Python apps as executables and Docker images) · [10,000 Hour Calculator](https://github.com/ImmuneMoon/10-000-Hour-Calculator)
 
 ---
 
