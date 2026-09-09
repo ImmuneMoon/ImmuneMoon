@@ -281,6 +281,14 @@ Repair, setup, and quality-of-life utilities from IT consulting work.
 
 ---
 
+## ☕ Support the Project
+
+If you find my projects helpful and want to support further development by Fulllion Creative Works, consider leaving a tip!
+
+* [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=LCDZX75HR4CLC)
+* [Support on Ko-fi](https://ko-fi.com/fulllion)
+---
+
 <!-- Footer -->
 <p align="center">
   <sub>
