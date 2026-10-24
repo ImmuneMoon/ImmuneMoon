@@ -27,12 +27,12 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=Building-Firebase-Apps-in-Google-Antigravity-IDE&theme=nightowl&hide_border=true&card_width=400" alt="Building Firebase Apps in Google Antigravity IDE" />
   </a>
   <br><br>
-  <a href="https://github.com/ImmuneMoon/GSuite-Dark-Mode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=GSuite-Dark-Mode&theme=nightowl&hide_border=true&card_width=400" alt="GSuite Dark Mode" />
+  <a href="https://github.com/ImmuneMoon/Connecting-a-Custom-Domain-to-Firebase-App-Hosting">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=Connecting-a-Custom-Domain-to-Firebase-App-Hosting&theme=nightowl&hide_border=true&card_width=400" alt="Connecting a Custom Domain to Firebase App Hosting" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ImmuneMoon/Fulllion-s-Tabletop-Character-Creator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=Fulllion-s-Tabletop-Character-Creator&theme=nightowl&hide_border=true&card_width=400" alt="SheetForge" />
+  <a href="https://github.com/ImmuneMoon/GSuite-Dark-Mode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=GSuite-Dark-Mode&theme=nightowl&hide_border=true&card_width=400" alt="GSuite Dark Mode" />
   </a>
   <br><br>
   <a href="https://github.com/ImmuneMoon/Super-Power-Options">
@@ -42,21 +42,18 @@
   <a href="https://github.com/ImmuneMoon/URL-web-scraper">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=URL-web-scraper&theme=nightowl&hide_border=true&card_width=400" alt="URL Web Scraper" />
   </a>
-  <br><br>
-  <a href="https://github.com/ImmuneMoon/Proj-ADV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmuneMoon&repo=Proj-ADV&theme=nightowl&hide_border=true&card_width=400" alt="Proj-ADV" />
-  </a>
 </p>
 
 - **[Waypoint](https://github.com/ImmuneMoon/Waypoint)** — Portable Electron desktop companion for tabletop campaigns: linked data maps, hex-grid play maps with tokens and scene art, planners, and peer-to-peer multiplayer with room codes. Installer, in-app updater, offline-first saves.
 - **[Building Firebase Apps in Google Antigravity IDE](https://github.com/ImmuneMoon/Building-Firebase-Apps-in-Google-Antigravity-IDE)** — Eleven-section guide to developing Firebase apps locally in Antigravity: Firebase Studio migration, Firestore security rules, emulator seeding, rules unit tests, and CI/CD.
+- **[Connecting a Custom Domain to Firebase App Hosting](https://github.com/ImmuneMoon/Connecting-a-Custom-Domain-to-Firebase-App-Hosting)** — Companion guide: moving DNS from Squarespace to Cloudflare, connecting custom domains and subdomains to App Hosting, serving two addresses from one backend, and every snag that cost hours.
 - **[GSuite Dark Mode](https://github.com/ImmuneMoon/GSuite-Dark-Mode)** — Manifest V3 browser extension that gives Google Docs and Sheets a comfortable dark theme. Chrome, Edge, Brave, and Firefox; runs fully local with no tracking.
-- **[SheetForge](https://github.com/ImmuneMoon/Fulllion-s-Tabletop-Character-Creator)** — Next.js / React tabletop character-sheet builder with printable PDF export. [Live demo](https://studio--sheetforge-6tdzh.us-central1.hosted.app).
 - **[Super Power Options](https://github.com/ImmuneMoon/Super-Power-Options)** — Visual scheduler for Windows power actions (sleep, shutdown, restart) as a convenient alternative to command-line scripts.
-- **[URL Web Scraper](https://github.com/ImmuneMoon/URL-web-scraper)** — Axios + Cheerio scraper that pulls every link off a page, renders them as a list, and emits JSON. Built as an internship task.
-- **[Proj-ADV](https://github.com/ImmuneMoon/Proj-ADV)** — Retro-style monster-battle RPG written entirely in GameMaker Language, with art and story from a small team.
+- **[URL Web Scraper](https://github.com/ImmuneMoon/URL-web-scraper)** — Axios + Cheerio scraper that pulls every link off a page, renders them as a list, and emits JSON.
 
-**More projects:** [Shadowbase FoundryVTT System](https://github.com/ImmuneMoon/Shadowbase-FoundryVTT-System) (Foundry system for [shadow-base.com](https://shadow-base.com)) · (React + Firebase AI video reactor) · [Build-Deploy-Run](https://github.com/ImmuneMoon/Build-Deploy-Run) (package Python apps as executables and Docker images) · [10,000 Hour Calculator](https://github.com/ImmuneMoon/10-000-Hour-Calculator)
+**More projects:** [Portfolio](https://github.com/ImmuneMoon/Portfolio) (Next.js source for [fulllioncreativeworks.com](https://fulllioncreativeworks.com)) · [Shadowbase FoundryVTT System](https://github.com/ImmuneMoon/Shadowbase-FoundryVTT-System) (Foundry system for [shadow-base.com](https://shadow-base.com)) · [Build-Deploy-Run](https://github.com/ImmuneMoon/Build-Deploy-Run) (package Python apps as executables and Docker images)
+
+**Earlier work:** [10,000 Hour Calculator](https://github.com/ImmuneMoon/10-000-Hour-Calculator) ([live](https://immunemoon.github.io/10-000-Hour-Calculator/)) · [Space Tourism](https://github.com/ImmuneMoon/space-tourism-website) ([live](https://immunemoon.github.io/space-tourism-website/)) · [Intro Section with Dropdown](https://github.com/ImmuneMoon/Intro-section-with-dropdown) ([live](https://immunemoon.github.io/Intro-section-with-dropdown/)) · [Order Summary Card](https://github.com/ImmuneMoon/Order-summary-card) ([live](https://immunemoon.github.io/Order-summary-card/)) · [Huddle Landing Page](https://github.com/ImmuneMoon/Huddle-landing-page) ([live](https://immunemoon.github.io/Huddle-landing-page/huddle-index.html)) · [Legacy Portfolio](https://github.com/ImmuneMoon/Legacy-Portfolio) ([live](https://immunemoon.github.io/Legacy-Portfolio/)) — React, jQuery, Tailwind and Bootstrap projects from 2021–2022, mostly Frontend Mentor challenges.
 
 ---
 
@@ -64,11 +61,15 @@
 
 Repair, setup, and quality-of-life utilities from IT consulting work.
 
+- **[CLI Cheat Sheet](https://github.com/ImmuneMoon/CLI-Cheat-Sheet)** — Windows CMD, PowerShell and Bash commands side by side, with flags explained and gotchas called out. [Read it online](https://immunemoon.github.io/CLI-Cheat-Sheet/CLI-Cheat-Sheet.html).
+- **[Windows Migration & System Hardening Guide](https://github.com/ImmuneMoon/Comprehensive_Windows_Migration_and_System_Hardening_Guide)** — Moving Windows from an old HDD to an NVMe SSD without reinstalling, then optimizing, backing up, and hardening the system.
 - **[Windows User Profile Failed Sign-In Recovery Guide](https://github.com/ImmuneMoon/Windows-user-profile-failed-sign-in-recovery-guide)** — Fixing corrupted profiles and temporary-profile loops.
+- **[Stuck Taskbar Notification Badge Fix](https://github.com/ImmuneMoon/Stuck-Taskbar-Notification-Badge-Fix)** — Clearing ghost unread badges on Windows 10/11 taskbar icons, with Discord-specific fixes.
 - **[DISM / SFC / CHKDSK Repair Guide](https://github.com/ImmuneMoon/DISM-SFC-CHKDSK-Windows-Repair-Guide)** — Checking for and repairing corrupted or missing system files.
 - **[Windows Install Guide](https://github.com/ImmuneMoon/Windows-Install-Guide)** — Installing Windows from ISO with a bootable drive.
 - **[Enable a Local User in Windows 11](https://github.com/ImmuneMoon/Enable-a-local-user-in-Windows11-no-microsoft-account-)** — Setting up a local account without a Microsoft account.
 - **[Restore Legacy Context Menu](https://github.com/ImmuneMoon/Restore-Legacy-Context-Menu)** — Brings back the classic right-click menu on Windows 11.
+- **[Ubuntu on an Acer R11 Chromebook](https://github.com/ImmuneMoon/Ubuntu-on-acer-r11-Chromebook)** — Removing the write-protect screw, flashing firmware, and booting Linux on an old Chromebook.
 - **[Applications Folder Shortcut](https://github.com/ImmuneMoon/Applications-Folder-Shortcut-Script)** · **[iexpress Shortcut](https://github.com/ImmuneMoon/iexpress-universal-shortcut)** · **[Mouse Coordinate Finder](https://github.com/ImmuneMoon/mouse-coordinate-finder)** — Small utilities.
 
 ---
