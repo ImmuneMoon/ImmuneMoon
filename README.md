@@ -297,10 +297,6 @@ Written from IT consulting work and my own projects. Click a section to open it.
   </b>
 </p>
 
-<p align="center">
-  Currently learning: <a href="https://developer.mozilla.org/en-US/docs/Web/API">API integration</a>
-</p>
-
 ---
 
 ## 🤝 Looking to Collaborate On
