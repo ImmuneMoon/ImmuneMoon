@@ -221,6 +221,10 @@ Written from IT consulting work and my own projects. Click a section to open it.
   <a href="https://firebase.google.com/">
     <img src="https://api.iconify.design/devicon/firebase.svg" width="40px" alt="Firebase" title="Firebase (Backend as a Service)"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API">
+    <img src="https://api.iconify.design/carbon/api.svg?color=%2300c8ff" width="32px" alt="REST APIs" title="REST APIs (API design and integration)"/>
+  </a>
 </p>
 
 <p align="center"><sub><b>Desktop & Shell</b></sub></p>
