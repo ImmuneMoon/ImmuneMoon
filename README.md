@@ -2,7 +2,7 @@
 <p align="center"><em>Web, game & software dev • IT consultant • Systems-curious • Currently trying not to over-engineer this README</em></p>
 
 <p align="center">
-  I build desktop and web tools for tabletop gaming, write Windows repair and setup guides,<br>
+  I build desktop and web tools for tabletop gaming, write Windows, security and learn-to-code guides,<br>
   and occasionally make a monster-battle RPG in GameMaker.
 </p>
 
@@ -44,26 +44,88 @@
   </a>
 </p>
 
-**More projects:** [Portfolio](https://github.com/ImmuneMoon/Portfolio) (Next.js source for [fulllioncreativeworks.com](https://fulllioncreativeworks.com)) · [Shadowbase FoundryVTT System](https://github.com/ImmuneMoon/Shadowbase-FoundryVTT-System) (Foundry system for [shadow-base.com](https://shadow-base.com)) · [Build-Deploy-Run](https://github.com/ImmuneMoon/Build-Deploy-Run) (package Python apps as executables and Docker images)
+**More projects:** [Portfolio](https://github.com/ImmuneMoon/Portfolio) (Next.js source for [fulllioncreativeworks.com](https://fulllioncreativeworks.com)) · [Shadowbase FoundryVTT System](https://github.com/ImmuneMoon/Shadowbase-FoundryVTT-System) (Foundry system for [shadow-base.com](https://shadow-base.com)) · [Build-Deploy-Run](https://github.com/ImmuneMoon/Build-Deploy-Run) (package Python apps as executables and Docker images) · [Fulllion's Tabletop Character Creator](https://github.com/ImmuneMoon/Fulllion-s-Tabletop-Character-Creator) (Next.js and Firebase character builder)
 
-**Earlier work:** [10,000 Hour Calculator](https://github.com/ImmuneMoon/10-000-Hour-Calculator) ([live](https://immunemoon.github.io/10-000-Hour-Calculator/)) · [Space Tourism](https://github.com/ImmuneMoon/space-tourism-website) ([live](https://immunemoon.github.io/space-tourism-website/)) · [Intro Section with Dropdown](https://github.com/ImmuneMoon/Intro-section-with-dropdown) ([live](https://immunemoon.github.io/Intro-section-with-dropdown/)) · [Order Summary Card](https://github.com/ImmuneMoon/Order-summary-card) ([live](https://immunemoon.github.io/Order-summary-card/)) · [Huddle Landing Page](https://github.com/ImmuneMoon/Huddle-landing-page) ([live](https://immunemoon.github.io/Huddle-landing-page/huddle-index.html)) · [Legacy Portfolio](https://github.com/ImmuneMoon/Legacy-Portfolio) ([live](https://immunemoon.github.io/Legacy-Portfolio/)) — React, jQuery, Tailwind and Bootstrap projects from 2021–2022, mostly Frontend Mentor challenges.
+**Earlier work:** [10,000 Hour Calculator](https://github.com/ImmuneMoon/10-000-Hour-Calculator) ([live](https://immunemoon.github.io/10-000-Hour-Calculator/)) · [Space Tourism](https://github.com/ImmuneMoon/space-tourism-website) ([live](https://immunemoon.github.io/space-tourism-website/)) · [Intro Section with Dropdown](https://github.com/ImmuneMoon/Intro-section-with-dropdown) ([live](https://immunemoon.github.io/Intro-section-with-dropdown/)) · [Order Summary Card](https://github.com/ImmuneMoon/Order-summary-card) ([live](https://immunemoon.github.io/Order-summary-card/)) · [Huddle Landing Page](https://github.com/ImmuneMoon/Huddle-landing-page) ([live](https://immunemoon.github.io/Huddle-landing-page/huddle-index.html)) · [Legacy Portfolio](https://github.com/ImmuneMoon/Legacy-Portfolio) ([live](https://immunemoon.github.io/Legacy-Portfolio/)). React, jQuery, Tailwind and Bootstrap projects from 2021–2022, mostly Frontend Mentor challenges.
 
 ---
 
-## 🛠 Windows Toolkit & Guides
+## 📚 Guides & Utilities
 
-Repair, setup, and quality-of-life utilities from IT consulting work.
+Written from IT consulting work and my own projects. Click a section to open it.
 
-- **[CLI Cheat Sheet](https://github.com/ImmuneMoon/CLI-Cheat-Sheet)** — Windows CMD, PowerShell and Bash commands side by side, with flags explained and gotchas called out. [Read it online](https://immunemoon.github.io/CLI-Cheat-Sheet/CLI-Cheat-Sheet.html).
-- **[Windows Migration & System Hardening Guide](https://github.com/ImmuneMoon/Comprehensive_Windows_Migration_and_System_Hardening_Guide)** — Moving Windows from an old HDD to an NVMe SSD without reinstalling, then optimizing, backing up, and hardening the system.
-- **[Windows User Profile Failed Sign-In Recovery Guide](https://github.com/ImmuneMoon/Windows-user-profile-failed-sign-in-recovery-guide)** — Fixing corrupted profiles and temporary-profile loops.
-- **[Stuck Taskbar Notification Badge Fix](https://github.com/ImmuneMoon/Stuck-Taskbar-Notification-Badge-Fix)** — Clearing ghost unread badges on Windows 10/11 taskbar icons, with Discord-specific fixes.
-- **[DISM / SFC / CHKDSK Repair Guide](https://github.com/ImmuneMoon/DISM-SFC-CHKDSK-Windows-Repair-Guide)** — Checking for and repairing corrupted or missing system files.
-- **[Windows Install Guide](https://github.com/ImmuneMoon/Windows-Install-Guide)** — Installing Windows from ISO with a bootable drive.
-- **[Enable a Local User in Windows 11](https://github.com/ImmuneMoon/Enable-a-local-user-in-Windows11-no-microsoft-account-)** — Setting up a local account without a Microsoft account.
-- **[Restore Legacy Context Menu](https://github.com/ImmuneMoon/Restore-Legacy-Context-Menu)** — Brings back the classic right-click menu on Windows 11.
-- **[Ubuntu on an Acer R11 Chromebook](https://github.com/ImmuneMoon/Ubuntu-on-acer-r11-Chromebook)** — Removing the write-protect screw, flashing firmware, and booting Linux on an old Chromebook.
-- **[Applications Folder Shortcut](https://github.com/ImmuneMoon/Applications-Folder-Shortcut-Script)** · **[iexpress Shortcut](https://github.com/ImmuneMoon/iexpress-universal-shortcut)** · **[Mouse Coordinate Finder](https://github.com/ImmuneMoon/mouse-coordinate-finder)** — Small utilities.
+<details open>
+<summary><b>🛠 Windows Repair & Setup</b></summary>
+
+- **[Windows Migration & System Hardening Guide](https://github.com/ImmuneMoon/Comprehensive_Windows_Migration_and_System_Hardening_Guide)**: Moving Windows from an old HDD to an NVMe SSD without reinstalling, then optimizing, backing up, and hardening the system.
+- **[Move Windows to a New PC](https://github.com/ImmuneMoon/Move-Windows-to-a-New-PC)**: Licenses, BitLocker, moving the drive, reactivating, and clean installs.
+- **[Fix Stuck Windows Update Prompts](https://github.com/ImmuneMoon/Fix-Stuck-Windows-Update-Prompts)**: Frozen restart reminders, fake update pop-ups, and updates that keep failing.
+- **[DISM / SFC / CHKDSK Repair Guide](https://github.com/ImmuneMoon/DISM-SFC-CHKDSK-Windows-Repair-Guide)**: Checking for and repairing corrupted or missing system files.
+- **[Windows User Profile Failed Sign-In Recovery Guide](https://github.com/ImmuneMoon/Windows-user-profile-failed-sign-in-recovery-guide)**: Fixing corrupted profiles and temporary-profile loops.
+- **[Stuck Taskbar Notification Badge Fix](https://github.com/ImmuneMoon/Stuck-Taskbar-Notification-Badge-Fix)**: Clearing ghost unread badges on Windows 10/11 taskbar icons, with Discord-specific fixes.
+- **[Windows Install Guide](https://github.com/ImmuneMoon/Windows-Install-Guide)**: Installing Windows from ISO with a bootable drive.
+- **[Enable a Local User in Windows 11](https://github.com/ImmuneMoon/Enable-a-local-user-in-Windows11-no-microsoft-account-)**: Setting up a local account without a Microsoft account.
+- **[Remove an Old Windows Install, Keep Your Files](https://github.com/ImmuneMoon/Remove-Old-Windows-Install-Keep-Your-Files)**: Cleaning an old install off a second drive without breaking hidden links into your new system.
+- **[Windows 10 Community Support Guide](https://github.com/ImmuneMoon/Windows-10-Community-Support-Guide)**: Staying on Windows 10 safely, and what lite builds cost you.
+- **[Linux Install Guide](https://github.com/ImmuneMoon/Linux-Install-Guide)**: Trying and installing Linux Mint, Zorin OS or Ubuntu.
+- **[Ubuntu on an Acer R11 Chromebook](https://github.com/ImmuneMoon/Ubuntu-on-acer-r11-Chromebook)**: Removing the write-protect screw, flashing firmware, and booting Linux on an old Chromebook.
+
+</details>
+
+<details>
+<summary><b>🔒 Security & Privacy</b></summary>
+
+- **[Windows Malware Removal Guide](https://github.com/ImmuneMoon/Windows-Malware-Removal-Guide)**: Microsoft's free scanners, the Tron script, when to reinstall, and securing your accounts afterward.
+- **[PC Network Activity & RAT Check](https://github.com/ImmuneMoon/PC-Network-Activity-and-RAT-Check)**: Seeing what your PC connects to and spotting remote access trojans hiding behind Windows tools.
+- **[Safer Package Installs (npm & pip)](https://github.com/ImmuneMoon/Safer-Package-Installs-npm-and-pip)**: Install scripts, typosquatting, pinning, and supply chain worm case studies.
+- **[NVIDIA App MCP DNS Rebinding Writeup](https://github.com/ImmuneMoon/NVIDIA-App-MCP-DNS-Rebinding-Writeup)**: How DNS rebinding threatens local MCP servers, and why Host and Origin checks stop it when CORS doesn't.
+- **[iPhone Messages & AI Privacy](https://github.com/ImmuneMoon/iPhone-Messages-AI-Privacy)** · **[Android Gemini Messages Privacy](https://github.com/ImmuneMoon/Android-Gemini-Messages-Privacy)**: What phone AI features can see of your messages, and the settings that control it.
+
+</details>
+
+<details>
+<summary><b>🧑‍💻 Developer Tooling & Automation</b></summary>
+
+- **[CLI Cheat Sheet](https://github.com/ImmuneMoon/CLI-Cheat-Sheet)**: Windows CMD, PowerShell and Bash commands side by side, with flags explained and gotchas called out. [Read it online](https://immunemoon.github.io/CLI-Cheat-Sheet/CLI-Cheat-Sheet.html).
+- **[Python & Node Tool Environments](https://github.com/ImmuneMoon/Python-and-Node-Tool-Environments)**: Setting up Python and Node.js on Windows with virtual environments and version managers.
+- **[Publishing to GitHub with gh](https://github.com/ImmuneMoon/Publishing-to-GitHub-with-gh)**: Creating repos, keeping secrets out, releases, topics and line endings.
+- **[Packaging Windows Apps (PyInstaller & Inno Setup)](https://github.com/ImmuneMoon/Packaging-Windows-Apps-PyInstaller-Inno-Setup)**: Turning Python apps into Windows executables and installers.
+- **[Private Cloud Storage for Firebase App Hosting](https://github.com/ImmuneMoon/Private-Cloud-Storage-for-Firebase-App-Hosting)**: A private bucket for a Next.js site with signed upload and download links.
+- **[PDF & Document Tools](https://github.com/ImmuneMoon/PDF-and-Document-Tools)**: Reading and OCRing PDFs, Markdown to PDF, and Word documents in code.
+- **[Transcribing Videos with yt-dlp & faster-whisper](https://github.com/ImmuneMoon/Transcribing-Videos-with-yt-dlp-and-faster-whisper)** · **[GPU Transcription with whisper.cpp & Vulkan](https://github.com/ImmuneMoon/GPU-Transcription-with-whisper.cpp-and-Vulkan)**: Local transcripts on the CPU, or about 30x real time on an AMD or Intel GPU.
+
+</details>
+
+<details>
+<summary><b>🎨 3D, Modding & Making</b></summary>
+
+- **[Learn 3D Modeling](https://github.com/ImmuneMoon/Learn-3D-Modeling)**: Modeling, sculpting, texturing, rigging and exporting in Blender.
+- **[3D Printing: Getting Started](https://github.com/ImmuneMoon/3D-Printing-Getting-Started)**: FDM versus resin, filaments, slicers, calibration and troubleshooting.
+- **[Batch Image & 3D Tools (GIMP, Blender, Pillow)](https://github.com/ImmuneMoon/Batch-Image-and-3D-Tools-GIMP-Blender-Pillow)**: Resizing, converting and rendering from the command line.
+- **[KOTOR Models in Source Filmmaker](https://github.com/ImmuneMoon/KOTOR-Models-in-Source-Filmmaker)**: Bringing KOTOR I and II characters and areas into SFM from your own copies of the games.
+
+</details>
+
+<details>
+<summary><b>🎓 Learn to Code & Tech Careers</b></summary>
+
+**Start here:** [Learn Web Development: Start Here](https://github.com/ImmuneMoon/Learn-Web-Development-Start-Here), a five-step path with free curricula compared.
+
+- **Web development:** [Front End](https://github.com/ImmuneMoon/Learn-Front-End-Web-Development) · [Back End](https://github.com/ImmuneMoon/Learn-Back-End-Web-Development) · [Full Stack & Stacks](https://github.com/ImmuneMoon/Full-Stack-Web-Development-and-Stacks)
+- **Other paths:** [Game Development](https://github.com/ImmuneMoon/Learn-Game-Development) · [Data Science](https://github.com/ImmuneMoon/Learn-Data-Science) · [Getting Started with DevOps](https://github.com/ImmuneMoon/Getting-Started-with-DevOps)
+- **Foundations:** [Computer Science Fundamentals](https://github.com/ImmuneMoon/Computer-Science-Fundamentals) · [Learning How to Learn Programming](https://github.com/ImmuneMoon/Learning-How-to-Learn-Programming) · [Coding Practice & Interview Prep](https://github.com/ImmuneMoon/Coding-Practice-and-Interview-Prep)
+- **Careers & community:** [Web Developer Careers, Portfolio & Freelancing](https://github.com/ImmuneMoon/Web-Developer-Careers-Portfolio-and-Freelancing) · [IT Support Careers & Certifications](https://github.com/ImmuneMoon/IT-Support-Careers-and-Certifications) · [Open Source & Developer Communities](https://github.com/ImmuneMoon/Open-Source-and-Developer-Communities)
+
+</details>
+
+<details>
+<summary><b>🧩 Small Utilities</b></summary>
+
+- **[AudioWatch](https://github.com/ImmuneMoon/AudioWatch)**: Logs Windows audio device switches and drop-outs, with desktop alerts.
+- **[Restore Legacy Context Menu](https://github.com/ImmuneMoon/Restore-Legacy-Context-Menu)**: Brings back the classic right-click menu on Windows 11.
+- **[Applications Folder Shortcut](https://github.com/ImmuneMoon/Applications-Folder-Shortcut-Script)** · **[iexpress Shortcut](https://github.com/ImmuneMoon/iexpress-universal-shortcut)** · **[Mouse Coordinate Finder](https://github.com/ImmuneMoon/mouse-coordinate-finder)**
+
+</details>
 
 ---
 
@@ -243,7 +305,7 @@ Repair, setup, and quality-of-life utilities from IT consulting work.
 
 ## 🤝 Looking to Collaborate On
 
-> Open-source projects, web development tooling, and game/modding communities. If it involves performance, UX polish, or clever architecture — I'm interested.
+> Open-source projects, web development tooling, and game/modding communities. If it involves performance, UX polish, or clever architecture, I'm interested.
 
 ---
 
