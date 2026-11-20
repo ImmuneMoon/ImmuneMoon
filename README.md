@@ -55,7 +55,7 @@
 Written from IT consulting work and my own projects. Click a section to open it.
 
 <details open>
-<summary><b>🛠 Windows Repair & Setup</b></summary>
+<summary><b>🛠 PC Repair & Setup</b></summary>
 
 - **[Windows Migration & System Hardening Guide](https://github.com/ImmuneMoon/Comprehensive_Windows_Migration_and_System_Hardening_Guide)**: Moving Windows from an old HDD to an NVMe SSD without reinstalling, then optimizing, backing up, and hardening the system.
 - **[Move Windows to a New PC](https://github.com/ImmuneMoon/Move-Windows-to-a-New-PC)**: Licenses, BitLocker, moving the drive, reactivating, and clean installs.
